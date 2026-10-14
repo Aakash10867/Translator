@@ -1,0 +1,1555 @@
+[
+  {
+    "doc": 2,
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": []
+  },
+  {
+    "doc": 3,
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": []
+  },
+  {
+    "doc": 4,
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": []
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Euripides",
+        "name_Hindi": "यूरिपिडेस",
+        "role": "Playwright referenced in the epigraph",
+        "notes": "Not a speaking character."
+      }
+    ],
+    "formality_changes": [],
+    "new_glossary": [],
+    "doc": 5
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Anne Frank",
+        "name_Hindi": "ऐनी फ़्रैंक",
+        "name_Hindi_script": "ऐनी फ़्रैंक",
+        "role": "Historical diarist mentioned by Alicia",
+        "notes": "Not a speaking character."
+      }
+    ],
+    "formality_changes": [],
+    "new_glossary": [],
+    "doc": 6
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Sigmund Freud",
+        "name_Hindi": "सिग्मंड फ़्रॉयड",
+        "role": "Historical figure quoted in the epigraph",
+        "notes": "Not a speaking character in the narrative."
+      }
+    ],
+    "formality_changes": [],
+    "new_glossary": [],
+    "doc": 7
+  },
+  {
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": [
+      {
+        "term": "Alcestis",
+        "hindi": "अल्केस्टिस",
+        "why": "The title of Alicia's self-portrait painted after the murder, a key artistic motif in the novel."
+      }
+    ],
+    "doc": 8
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Admetus",
+        "name_Hindi": "एडमेटस",
+        "role": "Character in the Greek myth of Alcestis.",
+        "notes": "Mentioned in the myth."
+      },
+      {
+        "name": "Mr. Justice Alverstone",
+        "name_Hindi": "मिस्टर जस्टिस अल्वरस्टन",
+        "role": "Trial judge.",
+        "notes": "Speaks with formal judicial authority."
+      },
+      {
+        "name": "Lazarus Diomedes",
+        "name_Hindi": "लैज़रस डायोमीडीस",
+        "role": "Professor of forensic psychiatry and clinical director of the Grove.",
+        "notes": "Professional and authoritative."
+      }
+    ],
+    "formality_changes": [],
+    "new_glossary": [
+      {
+        "term": "Alkestis",
+        "hindi": "अल्केस्टिस",
+        "why": "The title of Alicia's self-portrait and the Greek myth reference."
+      }
+    ],
+    "doc": 9
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Indira Sharma",
+        "name_Hindi": "इंदिरा शर्मा",
+        "name_in_hindi_only": "इंदिरा शर्मा",
+        "role": "Consultant psychotherapist at the Grove",
+        "notes": "Speaks in a professional, reassuring, and perceptive manner."
+      },
+      {
+        "name": "Aphrodite",
+        "name_Hindi": "एफ़्रोडाइटी",
+        "name_in_hindi_only": "एफ़्रोडाइटी",
+        "role": "Greek goddess, referenced metaphorically",
+        "notes": "Mentioned in philosophical reflection."
+      },
+      {
+        "name": "Donald Winnicott",
+        "name_Hindi": "डонаल्ड विनिकॉट",
+        "role": "Psychoanalyst, referenced in thought",
+        "notes": "Mentioned through a quoted concept."
+      },
+      {
+        "name": "Ruth",
+        "name_Hindi": "रुथ",
+        "role": "Theo's therapist during his training",
+        "notes": "Supportive and realistic mentor."
+      }
+    ],
+    "formality_changes": [
+      {
+        "speakers": "Theo -> Indira Sharma",
+        "form": "आप",
+        "why": "Professional interview and workplace relationship"
+      },
+      {
+        "speakers": "Indira Sharma -> Theo",
+        "form": "तुम",
+        "why": "Interviewer addressing a younger job candidate in a professional setting"
+      }
+    ],
+    "new_glossary": [],
+    "doc": 10
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Yuri",
+        "name_Hindi": "यूूरी",
+        "role": "Head psychiatric nurse at The Grove, originally from Latvia",
+        "notes": "Speaks friendly, direct English with an accent, uses informal address."
+      },
+      {
+        "name": "Stephanie Clarke",
+        "name_Hindi": "स्टेफ़नी क्लार्क",
+        "role": "Manager of The Grove",
+        "notes": "Businesslike, firm, and unwelcoming."
+      }
+    ],
+    "formality_changes": [
+      {
+        "speakers": "Theo -> Yuri",
+        "form": "तुम",
+        "why": "Colleagues in a psychiatric unit, Yuri is informal and friendly."
+      },
+      {
+        "speakers": "Yuri -> Theo",
+        "form": "तुम",
+        "why": "Peer relationship among staff members."
+      },
+      {
+        "speakers": "Theo -> Stephanie Clarke",
+        "form": "आप",
+        "why": "Formal professional respect toward the unit manager."
+      },
+      {
+        "speakers": "Stephanie Clarke -> Theo",
+        "form": "आप",
+        "why": "Formal workplace interaction between manager and new staff."
+      }
+    ],
+    "new_glossary": [
+      {
+        "term": "The Grove",
+        "hindi": "द ग्रोव",
+        "why": "The secure psychiatric unit where the story now takes place."
+      },
+      {
+        "term": "Broadmoor",
+        "hindi": "ब्रॉडमूर",
+        "why": "The high-security psychiatric hospital where Theo previously worked."
+      }
+    ],
+    "doc": 11
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Elif",
+        "name_Hindi": "एलिफ़",
+        "role": "एक तुर्की मरीज़ जो गुस्से में पूल की टूटी हुई छड़ लेकर कम्युनिटी मीटिंग में घुस आती है।",
+        "notes": "गुस्सैल और अशिष्ट भाषा में बात करती है।"
+      }
+    ],
+    "formality_changes": [
+      {
+        "speakers": "Theo -> Elif",
+        "form": "तुम",
+        "why": "थियो एक थेरेपिस्ट के रूप में नई मरीज़ एलिफ़ से संवाद शुरू करता है।"
+      },
+      {
+        "speakers": "Elif -> Theo",
+        "form": "तू",
+        "why": "एलिफ़ अपनी मानसिक स्थिति और विद्रोह के चलते थियो से अनौपचारिक और आक्रामक ढंग से बात करती है।"
+      }
+    ],
+    "new_glossary": [],
+    "doc": 12
+  },
+  {
+    "doc": 13,
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": []
+  },
+  {
+    "doc": 14,
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": []
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Lydia Rose",
+        "name_Hindi": "लीडिया रोज़",
+        "role": "Alicia's aunt and next of kin who brought her up after her mother's death.",
+        "notes": "Spoken to briefly on the phone; abrupt, defensive, and hostile."
+      },
+      {
+        "name": "Max Berenson",
+        "name_Hindi": "मैक्स बेरेन्सन",
+        "role": "Alicia's lawyer and Gabriel Berenson's brother.",
+        "notes": "Mentioned and called on the phone; not directly spoken to in this chapter."
+      }
+    ],
+    "formality_changes": [],
+    "new_glossary": [
+      {
+        "term": "Alcestis",
+        "hindi": "अलसेस्टिस",
+        "why": "The title of Alicia's self-portrait painting, referencing the Greek mythological figure."
+      }
+    ],
+    "doc": 15
+  },
+  {
+    "doc": 16,
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": []
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Marianne",
+        "name_Hindi": "मैरियन",
+        "role": "Theo's ex-girlfriend",
+        "notes": "Speaks briefly and directly, expressing hurt and annoyance."
+      },
+      {
+        "name": "Daniel",
+        "name_Hindi": "डैनियल",
+        "role": "Kathy's ex-boyfriend",
+        "notes": "Appears in flashback, arguing and walking out."
+      },
+      {
+        "name": "Theo's father",
+        "name_Hindi": "थियो के पिता",
+        "role": "Theo's father",
+        "notes": "Unfriendly, cold, and silent presence."
+      },
+      {
+        "name": "Theo's mother",
+        "name_Hindi": "थियो की माँ",
+        "role": "Theo's mother",
+        "notes": "Depressed and quiet."
+      }
+    ],
+    "formality_changes": [],
+    "new_glossary": [],
+    "doc": 17
+  },
+  {
+    "doc": 18,
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": []
+  },
+  {
+    "doc": 19,
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": []
+  },
+  {
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": [
+      {
+        "term": "risperidone",
+        "hindi": "रिस्पेरिडोन",
+        "why": "A specific psychiatric medication mentioned as a key plot point regarding Alicia's treatment."
+      }
+    ],
+    "doc": 20
+  },
+  {
+    "new_characters": [],
+    "formality_changes": [
+      {
+        "speakers": "Indira -> Theo",
+        "form": "तुम",
+        "why": "Indira adopts a warm, maternal, and informal tone toward Theo, offering him cake and calling him 'love'."
+      },
+      {
+        "speakers": "Theo -> Indira",
+        "form": "आप",
+        "why": "Theo maintains a polite, professional distance despite Indira's warmth."
+      }
+    ],
+    "new_glossary": [
+      {
+        "term": "Goldfish bowl",
+        "hindi": "गोल्डफ़िश बाउल",
+        "why": "The specific nickname for the nurses' station, which must be kept consistent as a proper noun/metaphor."
+      },
+      {
+        "term": "The Grove",
+        "hindi": "द ग्रोव",
+        "why": "The name of the psychiatric unit."
+      }
+    ],
+    "doc": 21
+  },
+  {
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": [
+      {
+        "term": "Goldfish Bowl",
+        "hindi": "गोल्डफ़िश बाउल",
+        "why": "The nurses' station is referred to by this specific nickname, which should be transliterated to maintain the clinical atmosphere."
+      }
+    ],
+    "doc": 22
+  },
+  {
+    "new_characters": [],
+    "formality_changes": [
+      {
+        "speakers": "Diomedes -> Theo",
+        "form": "तुम",
+        "why": "Diomedes shifts to a more informal, paternal tone while defending Theo against Stephanie and setting the six-week ultimatum."
+      }
+    ],
+    "new_glossary": [
+      {
+        "term": "The Grove",
+        "hindi": "द ग्रोव",
+        "why": "The name of the psychiatric facility where the story takes place."
+      },
+      {
+        "term": "Goldfish bowl",
+        "hindi": "गोल्डफ़िश बाउल",
+        "why": "The nickname for the observation room/nurses' station."
+      }
+    ],
+    "doc": 23
+  },
+  {
+    "doc": 25,
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": []
+  },
+  {
+    "doc": 26,
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": []
+  },
+  {
+    "doc": 27,
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": []
+  },
+  {
+    "doc": 28,
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": []
+  },
+  {
+    "doc": 29,
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": []
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Patrick Doherty",
+        "name_Hindi": "पैट्रिक डोहर्टी",
+        "role": "Max Berenson's colleague and lawyer",
+        "notes": "Mentioned by Max."
+      },
+      {
+        "name": "Tanya",
+        "name_Hindi": "तान्या",
+        "role": "Max Berenson's receptionist and wife",
+        "notes": "Speaks with a sniffly voice, appears nervous around Max."
+      }
+    ],
+    "formality_changes": [
+      {
+        "speakers": "Theo -> Max Berenson",
+        "form": "आप",
+        "why": "opening"
+      },
+      {
+        "speakers": "Max Berenson -> Theo",
+        "form": "आप",
+        "why": "opening"
+      },
+      {
+        "speakers": "Theo -> Tanya",
+        "form": "आप",
+        "why": "opening"
+      },
+      {
+        "speakers": "Tanya -> Theo",
+        "form": "आप",
+        "why": "opening"
+      }
+    ],
+    "new_glossary": [],
+    "doc": 30
+  },
+  {
+    "doc": 31,
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": []
+  },
+  {
+    "doc": 32,
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": []
+  },
+  {
+    "doc": 33,
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": []
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Vernon Rose",
+        "name_Hindi": "वर्नन रोज़",
+        "role": "Alicia's deceased uncle/father figure",
+        "notes": "Deceased before the story's present timeline."
+      }
+    ],
+    "formality_changes": [
+      {
+        "speakers": "Paul -> Theo",
+        "form": "तुम",
+        "why": "Paul addresses Theo casually as a peer after hitting him and talking over tea."
+      },
+      {
+        "speakers": "Theo -> Paul",
+        "form": "तुम",
+        "why": "Theo adopts a peer-to-peer informal tone with Paul following the confrontation."
+      }
+    ],
+    "new_glossary": [],
+    "doc": 34
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Lydia Rose",
+        "name_Hindi": "लीडिया रोज़",
+        "role": "Paul's bedridden, hostile, and domineering aunt who despises psychotherapists and holds a bitter grudge against Alicia.",
+        "notes": "Speaks shrilly and aggressively, hurling insults and commands."
+      },
+      {
+        "name": "Eva",
+        "name_Hindi": "ईवा",
+        "role": "Vernon's deceased wife and Alicia's late mother.",
+        "notes": "Mentioned in dialogue; does not appear directly."
+      }
+    ],
+    "formality_changes": [
+      {
+        "speakers": "Lydia Rose -> Theo",
+        "form": "तू",
+        "why": "Initial establishment of address form for Lydia Rose speaking to Theo with immediate hostility and contempt."
+      },
+      {
+        "speakers": "Theo -> Lydia Rose",
+        "form": "आप",
+        "why": "Initial establishment of address form for Theo speaking to an elder and hostile stranger respectfully or distantly."
+      }
+    ],
+    "new_glossary": [],
+    "doc": 35
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Tony",
+        "name_Hindi": "टोनी",
+        "role": "Kathy's theater director",
+        "notes": "Mentioned as Kathy's director whom she works closely with."
+      },
+      {
+        "name": "Nicole",
+        "name_Hindi": "निकोल",
+        "role": "Kathy's friend",
+        "notes": "Mentioned as a friend returning to London."
+      }
+    ],
+    "formality_changes": [],
+    "new_glossary": [],
+    "doc": 36
+  },
+  {
+    "doc": 37,
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": []
+  },
+  {
+    "doc": 38,
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": []
+  },
+  {
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": [
+      {
+        "term": "Alcestis",
+        "hindi": "ऐल्सेस्टिस",
+        "why": "Euripides' play featuring the central myth mirroring Alicia's silence and painting."
+      },
+      {
+        "term": "Heracles",
+        "hindi": "हैराक्लीज़",
+        "why": "Mythological hero who wrests Alcestis back from Hades in the play."
+      },
+      {
+        "term": "Apollo",
+        "hindi": "अपोलो",
+        "why": "Greek god who negotiates the loophole for Admetus."
+      },
+      {
+        "term": "Fates",
+        "hindi": "फ़ेट्स",
+        "why": "Mythological weavers of destiny who condemn Admetus to death."
+      },
+      {
+        "term": "Hades",
+        "hindi": "हेडीज़",
+        "why": "The underworld in Greek mythology."
+      }
+    ],
+    "doc": 39
+  },
+  {
+    "doc": 40,
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": []
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Rowena Hart",
+        "name_Hindi": "रोवेना हार्ट",
+        "role": "Alicia's art therapist at the Grove",
+        "notes": "Described as a formidable professional who is protective of her art therapy program."
+      }
+    ],
+    "formality_changes": [],
+    "new_glossary": [],
+    "doc": 41
+  },
+  {
+    "doc": 42,
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": []
+  },
+  {
+    "doc": 43,
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": []
+  },
+  {
+    "doc": 44,
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": []
+  },
+  {
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": [
+      {
+        "term": "The Grove",
+        "hindi": "द ग्रोव",
+        "why": "The name of the secure forensic unit where Theo works and Alicia is held."
+      }
+    ],
+    "doc": 45
+  },
+  {
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": [
+      {
+        "term": "The Grove",
+        "hindi": "द ग्रोव",
+        "why": "The name of the psychiatric facility where the story is set."
+      },
+      {
+        "term": "goldfish bowl",
+        "hindi": "गोल्डफ़िश बाउल",
+        "why": "The nickname for the observation room at the facility."
+      }
+    ],
+    "doc": 46
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Barbie Hellmann",
+        "name_Hindi": "बार्बी हेलमैन",
+        "role": "Alicia's neighbor in Hampstead and self-proclaimed best friend.",
+        "notes": "Speaks rapidly, incessantly, and with a sense of entitlement; uses informal and familiar language."
+      }
+    ],
+    "formality_changes": [
+      {
+        "speakers": "Barbie Hellmann -> Theo",
+        "form": "तुम",
+        "why": "Barbie adopts a familiar, patronizing tone immediately upon meeting Theo, treating him as a subordinate or peer she can easily manipulate."
+      },
+      {
+        "speakers": "Theo -> Barbie Hellmann",
+        "form": "आप",
+        "why": "Theo maintains a professional, albeit wary, distance while attempting to extract information from her."
+      }
+    ],
+    "new_glossary": [],
+    "doc": 47
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Dr. Monks",
+        "name_Hindi": "डॉक्टर मॉन्क्स",
+        "role": "बार्बी के डॉक्टर",
+        "notes": "पात्र का उल्लेख मात्र है, कोई संवाद नहीं।"
+      }
+    ],
+    "formality_changes": [
+      {
+        "speakers": "Barbie Hellmann -> Theo",
+        "form": "तुम",
+        "why": "बार्बी थियो को 'हनी' कहकर संबोधित करती है और उसके साथ अनौपचारिक और आक्रामक व्यवहार अपनाती है।"
+      },
+      {
+        "speakers": "Theo -> Barbie Hellmann",
+        "form": "आप",
+        "why": "थियो एक पेशेवर चिकित्सक के रूप में अपनी दूरी बनाए रखने के लिए औपचारिक संबोधन का उपयोग करता है।"
+      }
+    ],
+    "new_glossary": [
+      {
+        "term": "The Grove",
+        "hindi": "द ग्रोव",
+        "why": "वह मानसिक चिकित्सा केंद्र जहाँ एलिशिया भर्ती है।"
+      },
+      {
+        "term": "Hampstead Heath",
+        "hindi": "हैम्पस्टेड हीथ",
+        "why": "लंदन का वह इलाका जहाँ बार्बी और एलिशिया का घर था।"
+      }
+    ],
+    "doc": 48
+  },
+  {
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": [
+      {
+        "term": "The Grove",
+        "hindi": "द ग्रोव",
+        "why": "The name of the psychiatric facility where Alicia is held."
+      },
+      {
+        "term": "goldfish bowl",
+        "hindi": "गोल्डफ़िश बाउल",
+        "why": "The specific term used to describe the glass-enclosed observation area in the ward."
+      }
+    ],
+    "doc": 49
+  },
+  {
+    "new_characters": [],
+    "formality_changes": [
+      {
+        "speakers": "Elif -> Theo",
+        "form": "तू",
+        "why": "Elif's aggressive, contemptuous, and mocking behavior towards Theo confirms the use of the informal 'तू' as her established address form."
+      },
+      {
+        "speakers": "Theo -> Elif",
+        "form": "तुम",
+        "why": "Theo maintains a professional, albeit strained, distance, keeping the 'तुम' form despite Elif's hostility."
+      }
+    ],
+    "new_glossary": [
+      {
+        "term": "Goldfish bowl",
+        "hindi": "गोल्डफ़िश बाउल",
+        "why": "The specific term used for the glass-walled staff office at The Grove."
+      }
+    ],
+    "doc": 50
+  },
+  {
+    "new_characters": [],
+    "formality_changes": [
+      {
+        "speakers": "Christian -> Theo",
+        "form": "तुम",
+        "why": "Christian adopts a patronizing, aggressive tone to belittle Theo during the meeting, reinforcing his established informal and hostile stance."
+      },
+      {
+        "speakers": "Theo -> Christian",
+        "form": "तुम",
+        "why": "Theo drops professional courtesy in response to Christian's open hostility and mockery."
+      }
+    ],
+    "new_glossary": [
+      {
+        "term": "seclusion",
+        "hindi": "एकांतवास",
+        "why": "Refers to the specific clinical practice of isolating a patient in a locked, windowless room."
+      },
+      {
+        "term": "the Trust",
+        "hindi": "द ट्रस्ट",
+        "why": "Refers to the administrative governing body overseeing the clinic's funding and existence."
+      }
+    ],
+    "doc": 51
+  },
+  {
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": [
+      {
+        "term": "Alicia's journal",
+        "hindi": "एलिशिया की डायरी",
+        "why": "यह कहानी का एक महत्वपूर्ण वस्तु है जिसे थियो को सौंपा गया है।"
+      }
+    ],
+    "doc": 52
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Jean-Paul Sartre",
+        "name_Hindi": "जीन-पॉल सार्त्र",
+        "role": "French philosopher and writer, quoted in the epigraph.",
+        "notes": "N/A"
+      },
+      {
+        "name": "William Shakespeare",
+        "name_Hindi": "विलियम शेक्सपियर",
+        "role": "English playwright and poet, quoted in the epigraph.",
+        "notes": "N/A"
+      }
+    ],
+    "formality_changes": [],
+    "new_glossary": [],
+    "doc": 53
+  },
+  {
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": [
+      {
+        "term": "Alcestis",
+        "hindi": "अल्सेस्टिस",
+        "why": "The title of the play Alicia watches, central to her internal monologue about death and rebirth."
+      }
+    ],
+    "doc": 54
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Alice Miller",
+        "name_Hindi": "ऐलिस मिलर",
+        "role": "Psychologist and author quoted in the epigraph.",
+        "notes": "Not a speaking character in the narrative."
+      }
+    ],
+    "formality_changes": [],
+    "new_glossary": [
+      {
+        "term": "The aim of therapy",
+        "hindi": "थेरेपी का उद्देश्य",
+        "why": "Recurring thematic concept regarding the nature of psychological healing."
+      }
+    ],
+    "doc": 55
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Dr. C. West",
+        "name_Hindi": "डॉक्टर सी. वेस्ट",
+        "role": "अलीसिया के पूर्व चिकित्सक",
+        "notes": "अभी तक कोई संवाद नहीं"
+      }
+    ],
+    "formality_changes": [],
+    "new_glossary": [
+      {
+        "term": "Diary",
+        "hindi": "डायरी",
+        "why": "अलीसिया की डायरी के लिए निरंतरता बनाए रखने हेतु"
+      }
+    ],
+    "doc": 56
+  },
+  {
+    "new_characters": [],
+    "formality_changes": [
+      {
+        "speakers": "Theo -> Christian",
+        "form": "तुम",
+        "why": "Theo has discovered Christian's professional misconduct and is now holding it over him, shifting the power dynamic to one of contempt and leverage."
+      },
+      {
+        "speakers": "Christian -> Theo",
+        "form": "तुम",
+        "why": "Christian is pleading for his career and is now in a position of vulnerability and dependence on Theo."
+      }
+    ],
+    "new_glossary": [],
+    "doc": 57
+  },
+  {
+    "new_characters": [],
+    "formality_changes": [
+      {
+        "speakers": "Christian -> Theo",
+        "form": "तुम",
+        "why": "The professional barrier has collapsed due to blackmail, and Christian is now speaking to Theo with open contempt and hostility."
+      },
+      {
+        "speakers": "Theo -> Christian",
+        "form": "तुम",
+        "why": "Theo has dropped the professional facade and is now exerting power over Christian, treating him as a subordinate subject of his investigation."
+      }
+    ],
+    "new_glossary": [
+      {
+        "term": "Borderline",
+        "hindi": "बॉर्डरलाइन",
+        "why": "Used as a specific psychological diagnostic term throughout the text."
+      },
+      {
+        "term": "Peeping Tom",
+        "hindi": "झाँकने वाला",
+        "why": "A recurring motif regarding Alicia's paranoia."
+      }
+    ],
+    "doc": 58
+  },
+  {
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": [
+      {
+        "term": "The Grove",
+        "hindi": "द ग्रोव",
+        "why": "The name of the psychiatric facility where the story is set."
+      },
+      {
+        "term": "goldfish bowl",
+        "hindi": "गोल्डफ़िश बाउल",
+        "why": "The nickname for the glass-walled office area in the facility."
+      }
+    ],
+    "doc": 59
+  },
+  {
+    "doc": 60,
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": []
+  },
+  {
+    "new_characters": [],
+    "formality_changes": [
+      {
+        "speakers": "Theo -> Paul",
+        "form": "तुम",
+        "why": "Theo establishes a peer-to-peer, slightly manipulative rapport with Paul, moving away from the formal distance of a doctor-relative dynamic."
+      },
+      {
+        "speakers": "Paul -> Theo",
+        "form": "तुम",
+        "why": "Paul adopts a casual, friendly tone common in British English 'mate' interactions, which translates naturally to तुम in this context."
+      },
+      {
+        "speakers": "Max Berenson -> Theo",
+        "form": "तुम",
+        "why": "Max expresses open hostility and contempt, discarding professional or social politeness."
+      },
+      {
+        "speakers": "Theo -> Max Berenson",
+        "form": "आप",
+        "why": "Theo maintains a calculated, professional, yet provocative distance despite Max's aggression."
+      }
+    ],
+    "new_glossary": [
+      {
+        "term": "Alcestis",
+        "hindi": "अल्सेस्टिस",
+        "why": "The title of the painting by Alicia Berenson, central to the plot."
+      },
+      {
+        "term": "The White Bear",
+        "hindi": "द व्हाइट बियर",
+        "why": "The name of the pub where Theo and Paul agree to meet."
+      }
+    ],
+    "doc": 61
+  },
+  {
+    "new_characters": [],
+    "formality_changes": [
+      {
+        "speakers": "Theo -> Paul",
+        "form": "तुम",
+        "why": "Theo establishes a rapport and manipulates Paul, moving to a more familiar, condescending, and interrogative tone."
+      },
+      {
+        "speakers": "Paul -> Theo",
+        "form": "तुम",
+        "why": "Paul adopts a defensive, informal tone as he is pressured by Theo's questioning."
+      }
+    ],
+    "new_glossary": [
+      {
+        "term": "The White Bear",
+        "hindi": "द व्हाइट बियर",
+        "why": "The name of the pub where the meeting takes place."
+      }
+    ],
+    "doc": 62
+  },
+  {
+    "new_characters": [],
+    "formality_changes": [
+      {
+        "speakers": "Paul -> Theo",
+        "form": "तुम",
+        "why": "Paul and Theo have established a conspiratorial, peer-like dynamic while sharing secrets on the roof."
+      },
+      {
+        "speakers": "Theo -> Paul",
+        "form": "तुम",
+        "why": "Theo adopts a more casual, manipulative tone to lower Paul's defenses and gain his trust."
+      }
+    ],
+    "new_glossary": [
+      {
+        "term": "psychic infanticide",
+        "hindi": "मानसिक शिशु-हत्या",
+        "why": "Theo uses this specific psychological term to describe the trauma inflicted by Vernon on Alicia."
+      }
+    ],
+    "doc": 63
+  },
+  {
+    "new_characters": [],
+    "formality_changes": [
+      {
+        "speakers": "Alicia -> Theo",
+        "form": "आप",
+        "why": "Alicia speaks for the first time in the novel, establishing her side of the dialogue using a formal tone appropriate for the clinical setting."
+      },
+      {
+        "speakers": "Theo -> Alicia",
+        "form": "आप",
+        "why": "Theo maintains the formal address as Alicia finally breaks her silence, reflecting the professional yet intense nature of the breakthrough."
+      }
+    ],
+    "new_glossary": [
+      {
+        "term": "psychic murder",
+        "hindi": "मानसिक हत्या",
+        "why": "A key psychological concept Theo uses to describe the trauma Alicia suffered from her father's rejection, which he believes led to her silence."
+      }
+    ],
+    "doc": 64
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Julian",
+        "name_Hindi": "जूलियन",
+        "role": "A member of the Trust at The Grove.",
+        "notes": "Not yet heard speaking."
+      }
+    ],
+    "formality_changes": [
+      {
+        "speakers": "Diomedes -> Theo",
+        "form": "तुम",
+        "why": "The relationship has evolved into a mentor-mentee bond where Diomedes expresses pride and paternal affection, maintaining the established 'tum' register."
+      },
+      {
+        "speakers": "Theo -> Diomedes",
+        "form": "आप",
+        "why": "Theo continues to show professional deference and seeks validation from his superior, maintaining the established 'aap' register."
+      }
+    ],
+    "new_glossary": [
+      {
+        "term": "The Trust",
+        "hindi": "द ट्रस्ट",
+        "why": "Refers to the administrative body overseeing The Grove, requiring a consistent transliterated term."
+      }
+    ],
+    "doc": 65
+  },
+  {
+    "doc": 66,
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": []
+  },
+  {
+    "new_characters": [],
+    "formality_changes": [
+      {
+        "speakers": "Theo -> Alicia",
+        "form": "तुम",
+        "why": "Theo's professional boundaries have eroded significantly; he is now sharing cigarettes and engaging in a more intimate, informal dynamic with her."
+      },
+      {
+        "speakers": "Alicia -> Theo",
+        "form": "तुम",
+        "why": "Alicia has taken control of the therapeutic dynamic and is now treating Theo with the informal familiarity of an equal or a confidant rather than a doctor."
+      }
+    ],
+    "new_glossary": [],
+    "doc": 67
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Aunt Lydia",
+        "name_Hindi": "आंट लीडिया",
+        "role": "Alicia's aunt, mentioned in her childhood memory.",
+        "notes": "Not a living participant in the current narrative."
+      }
+    ],
+    "formality_changes": [],
+    "new_glossary": [
+      {
+        "term": "The intruder",
+        "hindi": "घुसपैठिया",
+        "why": "The central antagonist in Alicia's narrative."
+      },
+      {
+        "term": "Canvas",
+        "hindi": "कैनवस",
+        "why": "Recurring artistic term relevant to Alicia's profession."
+      }
+    ],
+    "doc": 68
+  },
+  {
+    "doc": 69,
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": []
+  },
+  {
+    "new_characters": [],
+    "formality_changes": [
+      {
+        "speakers": "Diomedes -> Theo",
+        "form": "तुम",
+        "why": "Diomedes shifts to a more informal, mentor-like tone during their private supervision session, treating Theo as a colleague rather than a subordinate."
+      }
+    ],
+    "new_glossary": [
+      {
+        "term": "countertransference",
+        "hindi": "प्रति-स्थानांतरण",
+        "why": "A technical psychoanalytic term used by Diomedes in the session."
+      },
+      {
+        "term": "siesta",
+        "hindi": "दोपहर की नींद",
+        "why": "Refers to Diomedes's specific habit of resting after lunch."
+      }
+    ],
+    "doc": 70
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Kathy's lover",
+        "name_Hindi": "कैथी का प्रेमी",
+        "role": "Unknown man having an affair with Kathy",
+        "notes": "Does not speak in this chapter."
+      }
+    ],
+    "formality_changes": [],
+    "new_glossary": [
+      {
+        "term": "Rose and Crown",
+        "hindi": "रोज़ एंड क्राउन",
+        "why": "Specific pub name that appears in the narrative."
+      }
+    ],
+    "doc": 71
+  },
+  {
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": [
+      {
+        "term": "hydrocodone",
+        "hindi": "हाइड्रोकोडोन",
+        "why": "Medical term for the opioid involved in the incident."
+      },
+      {
+        "term": "morphine",
+        "hindi": "मॉर्फिन",
+        "why": "Medical term for the drug used in the attempted murder."
+      },
+      {
+        "term": "hypodermic needle",
+        "hindi": "हाइपोडर्मिक सुई",
+        "why": "Specific medical instrument used in the crime."
+      }
+    ],
+    "doc": 72
+  },
+  {
+    "new_characters": [],
+    "formality_changes": [
+      {
+        "speakers": "Theo -> Stephanie",
+        "form": "आप",
+        "why": "Professional setting and mutual tension in the office environment."
+      },
+      {
+        "speakers": "Stephanie -> Theo",
+        "form": "आप",
+        "why": "Professional setting and mutual tension in the office environment."
+      }
+    ],
+    "new_glossary": [
+      {
+        "term": "The Trust",
+        "hindi": "ट्रस्ट",
+        "why": "The governing body of the facility, referred to as a formal entity."
+      },
+      {
+        "term": "Underground",
+        "hindi": "अंडरग्राउंड",
+        "why": "Referring to the London transport system, commonly used in Hindi as a loan word."
+      }
+    ],
+    "doc": 73
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Steven Allen",
+        "name_Hindi": "स्टीवन एलेन",
+        "role": "मुख्य पुलिस निरीक्षक",
+        "notes": "औपचारिक और पेशेवर लहजा"
+      }
+    ],
+    "formality_changes": [
+      {
+        "speakers": "Theo -> Steven Allen",
+        "form": "आप",
+        "why": "नया परिचय और आधिकारिक पुलिस जांच का संदर्भ"
+      },
+      {
+        "speakers": "Steven Allen -> Theo",
+        "form": "आप",
+        "why": "पुलिस अधिकारी द्वारा एक गवाह के साथ पेशेवर संवाद"
+      }
+    ],
+    "new_glossary": [
+      {
+        "term": "Goldfish bowl",
+        "hindi": "गोल्डफ़िश बाउल",
+        "why": "द ग्रोव में नर्सों के स्टेशन के लिए इस्तेमाल किया जाने वाला विशिष्ट उपनाम"
+      }
+    ],
+    "doc": 74
+  },
+  {
+    "new_characters": [],
+    "formality_changes": [
+      {
+        "speakers": "Max Berenson -> Theo",
+        "form": "तुम",
+        "why": "Max Berenson is in a state of extreme emotional distress and aggressive confrontation, abandoning formal social niceties to blame Theo for Alicia's condition."
+      },
+      {
+        "speakers": "Theo -> Max Berenson",
+        "form": "आप",
+        "why": "Theo maintains his professional distance and attempts to de-escalate the situation by using formal address despite Max's aggression."
+      }
+    ],
+    "new_glossary": [],
+    "doc": 75
+  },
+  {
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": [
+      {
+        "term": "summerhouse",
+        "hindi": "समरहाउस",
+        "why": "A specific architectural feature in the garden where the climax occurs."
+      },
+      {
+        "term": "balaclava",
+        "hindi": "बलाक्लावा",
+        "why": "A specific item of clothing used by the narrator to conceal identity."
+      }
+    ],
+    "doc": 76
+  },
+  {
+    "doc": 77,
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": []
+  },
+  {
+    "new_characters": [],
+    "formality_changes": [
+      {
+        "speakers": "Alicia -> Theo",
+        "form": "तू",
+        "why": "Alicia has fully realized Theo's identity and his role in her trauma, shifting from the neutral 'तुम' to the accusatory and intimate 'तू' to express her deep hatred and betrayal."
+      },
+      {
+        "speakers": "Theo -> Alicia",
+        "form": "तुम",
+        "why": "Theo maintains a clinical, manipulative distance, using 'तुम' to exert control while pretending to be a therapist."
+      }
+    ],
+    "new_glossary": [
+      {
+        "term": "Jigsaw",
+        "hindi": "पहेली",
+        "why": "Used metaphorically by Alicia to describe the realization of the truth."
+      },
+      {
+        "term": "Jasmine",
+        "hindi": "चमेली",
+        "why": "A recurring sensory motif associated with the trauma of the night of the murder."
+      }
+    ],
+    "doc": 78
+  },
+  {
+    "new_characters": [],
+    "formality_changes": [
+      {
+        "speakers": "Theo -> Alicia",
+        "form": "तुम",
+        "why": "The narrator (Theo) reveals her internal monologue and deep, obsessive fixation on Alicia, viewing her as a mirror and a patient she controls, shifting the dynamic from professional distance to an intimate, possessive 'tu' or 'tum' (using 'tum' for the internal narrative register)."
+      },
+      {
+        "speakers": "Alicia -> Theo",
+        "form": "तू",
+        "why": "The narrator reveals that Alicia recognized her as the intruder, shifting their relationship to one of mortal enemies where Alicia's internal perception of Theo is one of contempt and betrayal."
+      }
+    ],
+    "new_glossary": [
+      {
+        "term": "The Grove",
+        "hindi": "द ग्रोव",
+        "why": "The psychiatric facility where the primary action takes place."
+      },
+      {
+        "term": "Diary",
+        "hindi": "डायरी",
+        "why": "The central piece of evidence and the object of the narrator's frantic search."
+      }
+    ],
+    "doc": 79
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Julian McMahon",
+        "name_Hindi": "जूलियन मैकमैहन",
+        "role": "Trust representative",
+        "notes": "Professional, uses corporate jargon and filler phrases."
+      }
+    ],
+    "formality_changes": [
+      {
+        "speakers": "Julian McMahon -> Theo",
+        "form": "तुम",
+        "why": "Julian is a professional superior/representative of the Trust, maintaining a friendly but slightly detached, authoritative tone."
+      },
+      {
+        "speakers": "Theo -> Julian McMahon",
+        "form": "आप",
+        "why": "Theo maintains a polite, professional facade with the Trust representative."
+      }
+    ],
+    "new_glossary": [
+      {
+        "term": "The Trust",
+        "hindi": "द ट्रस्ट",
+        "why": "The administrative body overseeing the psychiatric facility."
+      },
+      {
+        "term": "The Grove",
+        "hindi": "द ग्रोव",
+        "why": "The name of the psychiatric facility where the events take place."
+      }
+    ],
+    "doc": 80
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Sam Copeland",
+        "name_Hindi": "सैम कोपलैंड",
+        "role": "लेखक के एजेंट",
+        "notes": "औपचारिक"
+      },
+      {
+        "name": "Ben Willis",
+        "name_Hindi": "बेन विलिस",
+        "role": "यूके में संपादक",
+        "notes": "औपचारिक"
+      },
+      {
+        "name": "Ryan Doherty",
+        "name_Hindi": "रयान डोहर्टी",
+        "role": "यूएस में संपादक",
+        "notes": "औपचारिक"
+      },
+      {
+        "name": "Jamie Raab",
+        "name_Hindi": "जेमी राब",
+        "role": "सेलाडॉन में प्रकाशक",
+        "notes": "औपचारिक"
+      },
+      {
+        "name": "Deb Futter",
+        "name_Hindi": "डेब फ़टर",
+        "role": "सेलाडॉन में प्रकाशक",
+        "notes": "औपचारिक"
+      },
+      {
+        "name": "Anne Twomey",
+        "name_Hindi": "ऐनी ट्यूमी",
+        "role": "सेलाडॉन टीम सदस्य",
+        "notes": "औपचारिक"
+      },
+      {
+        "name": "Rachel Chou",
+        "name_Hindi": "रेचल चाउ",
+        "role": "सेलाडॉन टीम सदस्य",
+        "notes": "औपचारिक"
+      },
+      {
+        "name": "Christine Mykityshyn",
+        "name_Hindi": "क्रिस्टीन मिकिटिशिन",
+        "role": "सेलाडॉन टीम सदस्य",
+        "notes": "औपचारिक"
+      },
+      {
+        "name": "Harriet Bourton",
+        "name_Hindi": "हैरियट बॉर्टन",
+        "role": "ओरियन टीम सदस्य",
+        "notes": "औपचारिक"
+      },
+      {
+        "name": "Poppy Stimpson",
+        "name_Hindi": "पॉपी स्टिम्पसन",
+        "role": "ओरियन टीम सदस्य",
+        "notes": "औपचारिक"
+      },
+      {
+        "name": "Amy Davies",
+        "name_Hindi": "एमी डेविस",
+        "role": "ओरियन टीम सदस्य",
+        "notes": "औपचारिक"
+      },
+      {
+        "name": "Zoe Nelson",
+        "name_Hindi": "ज़ो नेल्सन",
+        "role": "विदेशी अधिकार टीम सदस्य",
+        "notes": "औपचारिक"
+      },
+      {
+        "name": "Stephen Edwards",
+        "name_Hindi": "स्टीफन एडवर्ड्स",
+        "role": "विदेशी अधिकार टीम सदस्य",
+        "notes": "औपचारिक"
+      },
+      {
+        "name": "Tristan Kendrick",
+        "name_Hindi": "ट्रिस्टन केंड्रिक",
+        "role": "विदेशी अधिकार टीम सदस्य",
+        "notes": "औपचारिक"
+      },
+      {
+        "name": "Hal Jensen",
+        "name_Hindi": "हैल जेनसन",
+        "role": "लेखक के सहयोगी",
+        "notes": "औपचारिक"
+      },
+      {
+        "name": "Ivàn Fernandez Soto",
+        "name_Hindi": "इवान फ़र्नांडेज़ सोटो",
+        "role": "लेखक के सहयोगी",
+        "notes": "औपचारिक"
+      },
+      {
+        "name": "Kate White",
+        "name_Hindi": "केट व्हाइट",
+        "role": "लेखक की मार्गदर्शक",
+        "notes": "औपचारिक"
+      },
+      {
+        "name": "Diane Medak",
+        "name_Hindi": "डायने मेडक",
+        "role": "लेखक की सहयोगी",
+        "notes": "औपचारिक"
+      },
+      {
+        "name": "Uma Thurman",
+        "name_Hindi": "उमा थर्मन",
+        "role": "लेखक की सहयोगी",
+        "notes": "औपचारिक"
+      },
+      {
+        "name": "James Haslam",
+        "name_Hindi": "जेम्स हैसलम",
+        "role": "लेखक की सहयोगी",
+        "notes": "औपचारिक"
+      },
+      {
+        "name": "Emily Holt",
+        "name_Hindi": "एमिली होल्ट",
+        "role": "लेखक की सहयोगी",
+        "notes": "औपचारिक"
+      },
+      {
+        "name": "Victoria Holt",
+        "name_Hindi": "विक्टोरिया होल्ट",
+        "role": "लेखक की सहयोगी",
+        "notes": "औपचारिक"
+      },
+      {
+        "name": "Vanessa Holt",
+        "name_Hindi": "वैनेसा होल्ट",
+        "role": "लेखक की सहयोगी",
+        "notes": "औपचारिक"
+      },
+      {
+        "name": "Nedie Antoniades",
+        "name_Hindi": "नेडी एंटोनियाडेस",
+        "role": "लेखक की सहयोगी",
+        "notes": "औपचारिक"
+      },
+      {
+        "name": "Joe Adams",
+        "name_Hindi": "जो एडम्स",
+        "role": "लेखक की सहयोगी",
+        "notes": "औपचारिक"
+      }
+    ],
+    "formality_changes": [],
+    "new_glossary": [],
+    "doc": 81
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Alex Michaelides",
+        "name_Hindi": "एलेक्स माइकलिडीस",
+        "role": "Author of the book",
+        "notes": "N/A"
+      }
+    ],
+    "formality_changes": [],
+    "new_glossary": [],
+    "doc": 82
+  },
+  {
+    "doc": 83,
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": []
+  },
+  {
+    "doc": 84,
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": []
+  }
+]

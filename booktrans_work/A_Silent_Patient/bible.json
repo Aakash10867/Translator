@@ -1,0 +1,187 @@
+{
+  "register": "यह हिंदी की वह सहज और स्वाभाविक शैली है जो आज उत्तर भारत के समाचारपत्रों, टेलीविज़न और आम बातचीत में बोली और समझी जाती है, जिसमें संस्कृत के भारी शब्दों के बजाय आम बोलचाल के शब्दों और उर्दू के प्रचलित रूपों का खुलकर उपयोग किया गया है।",
+  "narrative_voice": "प्रथम पुरुष (मैं), भूतकाल और वर्तमान काल का मिला-जुला रूप, जिसकी बनावट तीखी, आत्मविश्लेषी और तनाव से भरी हुई है; इसके लिए हिंदी की सीधी और धारदार कथात्मक शैली उपयुक्त है।",
+  "characters": [
+    {
+      "name": "Theo",
+      "name_Hindi": "थियो",
+      "role": "Psychotherapist",
+      "notes": "Determined, obsessive, clinical yet personally vulnerable. Speaks with professional care that occasionally slips into emotional edge."
+    },
+    {
+      "name": "Alicia Berenson",
+      "name_Hindi": "एलिशिया बेरेन्सन",
+      "role": "Patient / Artist",
+      "notes": "Silent, traumatized, intensely observant. Her diary entries are direct, raw, and unpretentious."
+    },
+    {
+      "name": "Gabriel",
+      "name_Hindi": "गेब्रियल",
+      "role": "Alicia's husband",
+      "notes": "Successful fashion photographer, charming, occasionally dismissive. Speaks with casual warmth and occasional irritation."
+    },
+    {
+      "name": "Diomedes",
+      "name_Hindi": "डायोमीडीस",
+      "role": "Clinical Director of the Grove",
+      "notes": "Cynical, experienced, amused by amateur enthusiasm. Speaks with authority and dry wit."
+    },
+    {
+      "name": "Kathy",
+      "name_Hindi": "कैथी",
+      "role": "Theo's wife",
+      "notes": "Actress, exhausted, distant, sharp-tongued. Speaks with casual weariness and directness."
+    },
+    {
+      "name": "Stephanie",
+      "name_Hindi": "स्टेफ़नी",
+      "role": "Unit Manager",
+      "notes": "Rigid, bureaucratic, protective of her domain. Formal and defensive."
+    },
+    {
+      "name": "Indira",
+      "name_Hindi": "इंदिरा",
+      "role": "Clinician at the Grove",
+      "notes": "Observant, professional, allied with Diomedes."
+    },
+    {
+      "name": "Christian",
+      "name_Hindi": "क्रिश्चियन",
+      "role": "Therapist at the Grove",
+      "notes": "Skeptical, dismissive, arrogant. Speaks with absolute certainty about others' failures."
+    },
+    {
+      "name": "Jean-Felix",
+      "name_Hindi": "जीन-फ़ेलिक्स",
+      "role": "Art dealer",
+      "notes": "Artsy, articulate, slightly evasive. Speaks with confident familiarity."
+    },
+    {
+      "name": "Barbie",
+      "name_Hindi": "बार्बी",
+      "role": "Alicia's acquaintance",
+      "notes": "Gossipy, dramatic, self-absorbed. Uses colloquial, expressive language."
+    },
+    {
+      "name": "Paul",
+      "name_Hindi": "पॉल",
+      "role": "Alicia's cousin",
+      "notes": "Nostalgic, unsettling, unburdened by tact. Speaks with rustic earthiness."
+    },
+    {
+      "name": "Yuri",
+      "name_Hindi": "यूूरी",
+      "role": "Staff member at the Grove",
+      "notes": "Pragmatic, cautious, direct."
+    }
+  ],
+  "formality_matrix": [
+    {
+      "speakers": "Theo -> Alicia",
+      "form": "आप",
+      "why": "Professional distance initially, evolving into respectful clinical address."
+    },
+    {
+      "speakers": "Alicia -> Theo",
+      "form": "आप",
+      "why": "Default clinical distance."
+    },
+    {
+      "speakers": "Theo -> Diomedes",
+      "form": "आप",
+      "why": "Subordinate addressing a senior director."
+    },
+    {
+      "speakers": "Diomedes -> Theo",
+      "form": "तुम",
+      "why": "Senior mentor addressing a younger colleague with paternal familiarity."
+    },
+    {
+      "speakers": "Theo -> Kathy",
+      "form": "तुम",
+      "why": "Intimate marital relationship."
+    },
+    {
+      "speakers": "Kathy -> Theo",
+      "form": "तुम",
+      "why": "Intimate marital relationship."
+    },
+    {
+      "speakers": "Theo -> Gabriel",
+      "form": "आप",
+      "why": "Not directly interacting, but conceptualized with professional/social respect if ever addressed."
+    },
+    {
+      "speakers": "Diomedes -> Stephanie",
+      "form": "आप",
+      "why": "Professional peer boundary in public dispute."
+    },
+    {
+      "speakers": "Stephanie -> Diomedes",
+      "form": "आप",
+      "why": "Strict professional hierarchy."
+    },
+    {
+      "speakers": "Theo -> Christian",
+      "form": "तुम",
+      "why": "Colleague-to-colleague rivalry and friction."
+    },
+    {
+      "speakers": "Christian -> Theo",
+      "form": "तुम",
+      "why": "Contemptuous colleague dynamic."
+    },
+    {
+      "speakers": "Theo -> Jean-Felix",
+      "form": "आप",
+      "why": "Polite professional curiosity toward an outsider."
+    },
+    {
+      "speakers": "Jean-Felix -> Theo",
+      "form": "तुम",
+      "why": "Slightly condescending casualness."
+    },
+    {
+      "speakers": "Theo -> Barbie",
+      "form": "आप",
+      "why": "Polite investigative distance."
+    },
+    {
+      "speakers": "Barbie -> Theo",
+      "form": "तुम",
+      "why": "Familiar, gossipy tone."
+    },
+    {
+      "speakers": "Theo -> Paul",
+      "form": "आप",
+      "why": "Cautious distance with a stranger/relative from the past."
+    },
+    {
+      "speakers": "Paul -> Theo",
+      "form": "तुम",
+      "why": "Casual, uninhibited rustic speech."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "The Grove",
+      "hindi": "द ग्रोव",
+      "why": "Name of the psychiatric unit; must remain fixed as a proper noun in transliteration."
+    },
+    {
+      "term": "Alcestis",
+      "hindi": "आल्केस्टिस",
+      "why": "Central mythological motif representing sacrifice, silence, and betrayal."
+    },
+    {
+      "term": "Silence",
+      "hindi": "खामोशी",
+      "why": "Key thematic motif representing trauma and refusal to speak."
+    }
+  ],
+  "pitfalls": [
+    "Over-Sanskritizing psychological terms like 'transference' or 'psychotic' instead of using accepted everyday clinical loanwords used in Indian hospitals and therapy (ट्रांसफ़रेंस, साइकोटिक).",
+    "Falling into archaic Hindi grammatical constructions in the narration while trying to keep it 'literary'.",
+    "Failing to maintain the distinct spoken texture of secondary characters like Barbie and Paul against the clinical detachment of Theo."
+  ]
+}
