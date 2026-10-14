@@ -1,0 +1,124 @@
+name: Hinglish
+
+# Transliteration, not translation: no API key, no quota, no waiting. Takes a
+# Hindi EPUB that booktrans already produced and rewrites it in Latin script.
+# If the matching bible is in the repo, character and place names are written
+# with their original spelling (Joe Gargery, not "jo gaarjri").
+
+on:
+  workflow_dispatch:
+    inputs:
+      book:
+        description: "Book name - partial is fine (blank = first not yet done)"
+        required: false
+        type: string
+      learn:
+        description: "Ask Gemini which unknown words are English borrowings"
+        required: false
+        default: false
+        type: boolean
+      use_names:
+        description: "Use bible names for original spellings"
+        required: false
+        default: true
+        type: boolean
+
+concurrency:
+  group: hinglish
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  hinglish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # A run's SHA is pinned when it is QUEUED. If an earlier run pushed
+          # while this one waited on the concurrency lock, checking out that
+          # SHA silently resurrects a stale checkpoint.
+          ref: ${{ github.ref_name }}
+
+      - name: Start from the branch tip
+        run: |
+          git fetch origin "$GITHUB_REF_NAME"
+          git reset --hard "origin/$GITHUB_REF_NAME"
+          git log -1 --format="starting from %h %s"
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: python -m pip install --quiet beautifulsoup4 google-genai
+
+      - name: Choose the book
+        id: pick
+        env:
+          WANT: ${{ inputs.book }}
+        run: |
+          set +e
+          BOOK=$(python pick_book.py --dir output --suffix .epub \
+                   --skip-existing .hinglish.epub --want "$WANT")
+          CODE=$?
+          set -e
+          if [ "$CODE" -ne 0 ] || [ -z "$BOOK" ]; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "book=$BOOK" >> "$GITHUB_OUTPUT"
+            echo "Converting $BOOK"
+          fi
+
+      - name: Convert to Hinglish
+        if: steps.pick.outputs.skip != 'true'
+        env:
+          # Without this the progress lines stay buffered until the job ends,
+          # and a working run looks indistinguishable from a hung one.
+          PYTHONUNBUFFERED: "1"
+          USE_NAMES: ${{ inputs.use_names }}
+          LEARN: ${{ inputs.learn }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          BOOK="${{ steps.pick.outputs.book }}"
+          OUT="${BOOK%.epub}.hinglish.epub"
+          ARGS=()
+          [ "$USE_NAMES" = "false" ] && ARGS+=(--no-names)
+          [ "$LEARN" = "true" ] && ARGS+=(--learn)
+          # --work lets the script find the matching bible on its own
+          python hinglish.py "$BOOK" -o "$OUT" --work booktrans_work "${ARGS[@]}"
+
+      - name: Save result
+        if: steps.pick.outputs.skip != 'true'
+        run: |
+          git config user.name  "booktrans"
+          git config user.email "booktrans@users.noreply.github.com"
+          git fetch origin "$GITHUB_REF_NAME"
+          # Never commit a checkpoint with fewer blocks than the branch has.
+          python guard_progress.py --ref "origin/$GITHUB_REF_NAME" || true
+          git reset --soft "origin/$GITHUB_REF_NAME"
+          git add -A output booktrans_work/lexicon.json || true
+          if git diff --cached --quiet; then
+            echo "nothing changed"
+          else
+            git commit -m "hinglish: $(basename '${{ steps.pick.outputs.book }}')"
+            for i in 1 2 3; do
+              git push && break
+              git fetch origin "$GITHUB_REF_NAME"
+              git reset --soft "origin/$GITHUB_REF_NAME"
+              git add -A output booktrans_work/lexicon.json || true
+              git commit -m "hinglish: retry" || break
+            done
+          fi
+
+      - name: Upload result
+        if: steps.pick.outputs.skip != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: hinglish
+          path: output/*.hinglish.epub
+          retention-days: 90
+          if-no-files-found: warn

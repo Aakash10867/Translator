@@ -1,0 +1,215 @@
+name: Translate book
+
+# A full novel needs more daily quota than one run gets, and an Actions job is
+# capped at 6 hours, so this is deliberately NOT one long job. Each run works
+# until the daily quota is spent, commits its checkpoint, and exits 75. The
+# cron picks it up again after the quota resets. Four or five short runs
+# finish a novel.
+
+on:
+  workflow_dispatch:
+    inputs:
+      book:
+        description: "Book name - partial is fine (blank = next unfinished)"
+        required: false
+        type: string
+      profile:
+        description: "Text type"
+        required: false
+        default: auto
+        type: choice
+        options: [auto, fiction, nonfiction]
+      docs:
+        description: "Documents to translate, e.g. 8-67 (blank = all)"
+        required: false
+        type: string
+      register:
+        description: "Hindi register"
+        required: false
+        default: modern
+        type: choice
+        options: [modern, auto, literary]
+      output_format:
+        description: "Output format"
+        required: false
+        default: epub
+        type: choice
+        options: [epub, pdf]
+      rebuild_bible:
+        description: "Rebuild the bible from scratch (discards translated blocks)"
+        required: false
+        default: false
+        type: boolean
+      models:
+        description: "Model fallback chain, comma separated"
+        required: false
+        default: gemini-3.5-flash-lite,gemini-3.1-flash-lite,gemini-3.1-flash-lite-preview,gemini-3-flash-preview,gemini-3.7-flash,gemini-3.6-flash,gemini-3.5-flash
+        type: string
+  schedule:
+    # Quota resets at midnight America/Los_Angeles - a single fixed boundary,
+    # not a per-model timer. That is 07:00 UTC in summer and 08:00 in winter,
+    # so both are covered. The midday run is insurance: GitHub delays or drops
+    # scheduled jobs under load, and a run with no quota left costs a minute.
+    - cron: "20 7 * * *"
+    - cron: "20 8 * * *"
+    - cron: "20 14 * * *"
+
+# Never let two runs touch the checkpoint at once.
+concurrency:
+  group: booktrans
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330          # under the 360-minute hard limit
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # A run's SHA is pinned when it is QUEUED. If an earlier run pushed
+          # while this one waited on the concurrency lock, checking out that
+          # SHA silently resurrects a stale checkpoint.
+          ref: ${{ github.ref_name }}
+
+      - name: Start from the branch tip
+        run: |
+          git fetch origin "$GITHUB_REF_NAME"
+          git reset --hard "origin/$GITHUB_REF_NAME"
+          git log -1 --format="starting from %h %s"
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: System libraries for PDF output
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq libpango-1.0-0 libpangoft2-1.0-0 \
+            libharfbuzz0b libffi-dev
+
+      - name: Install dependencies
+        run: python -m pip install --quiet google-genai beautifulsoup4 mobi weasyprint
+
+      - name: Choose the book
+        id: pick
+        env:
+          WANT: ${{ inputs.book }}
+        run: |
+          set +e
+          if [ -n "$WANT" ]; then
+            BOOK=$(python pick_book.py --dir books --suffix .epub \
+                     --suffix .mobi --suffix .azw3 --suffix .azw \
+                     --suffix .prc --want "$WANT")
+          else
+            BOOK=$(python booktrans.py --next books)
+          fi
+          CODE=$?
+          set -e
+          if [ "$CODE" -ne 0 ] || [ -z "$BOOK" ] || [ ! -f "$BOOK" ]; then
+            echo "nothing to translate"
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "book=$BOOK" >> "$GITHUB_OUTPUT"
+            echo "slug=$(basename "${BOOK%.*}")" >> "$GITHUB_OUTPUT"
+            echo "Translating $BOOK"
+          fi
+
+      - name: Translate
+        id: run
+        if: steps.pick.outputs.skip != 'true'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          # Without this, stdout is block-buffered and no progress appears in
+          # the Actions log until the job ends.
+          PYTHONUNBUFFERED: "1"
+          DOCS: ${{ inputs.docs }}
+          OUTFMT: ${{ inputs.output_format || 'epub' }}
+          REBUILD: ${{ inputs.rebuild_bible }}
+          PROFILE: ${{ inputs.profile || 'fiction' }}
+          REGISTER: ${{ inputs.register || 'modern' }}
+          MODELS: ${{ inputs.models || 'gemini-3.5-flash-lite,gemini-3.1-flash-lite,gemini-3.1-flash-lite-preview,gemini-3-flash-preview,gemini-3.7-flash,gemini-3.6-flash,gemini-3.5-flash' }}
+        run: |
+          set +e
+          mkdir -p output
+          ARGS=()
+          [ -n "$DOCS" ] && ARGS+=(--docs "$DOCS")
+          [ "$REBUILD" = "true" ] && ARGS+=(--rebuild-bible)
+          python booktrans.py "${{ steps.pick.outputs.book }}" \
+            --profile "$PROFILE" \
+            --register "$REGISTER" \
+            --models "$MODELS" \
+            --gap 2 \
+            --max-runtime 18000 \
+            --wait --wait-max 5400 \
+            "${ARGS[@]}" \
+            -o "output/${{ steps.pick.outputs.slug }}.hi.$OUTFMT"
+          CODE=$?
+          set -e
+          echo "code=$CODE" >> "$GITHUB_OUTPUT"
+          # 0 = finished, 75 = more to do next run. Anything else is a failure.
+          if [ "$CODE" -ne 0 ] && [ "$CODE" -ne 75 ]; then exit "$CODE"; fi
+
+      - name: Save progress
+        if: steps.pick.outputs.skip != 'true' && always()
+        run: |
+          git config user.name  "booktrans"
+          git config user.email "booktrans@users.noreply.github.com"
+          # This job is the only writer of booktrans_work/ and output/, and its
+          # working tree is the current state, so a merge is never wanted. Move
+          # the base to whatever origin has now and commit our files on top;
+          # that makes an add/add conflict structurally impossible.
+          git fetch origin "$GITHUB_REF_NAME"
+          # Never commit a checkpoint with fewer blocks than the branch has.
+          python guard_progress.py --ref "origin/$GITHUB_REF_NAME" || true
+          git reset --soft "origin/$GITHUB_REF_NAME"
+          git add -A booktrans_work output || true
+          if git diff --cached --quiet; then
+            echo "nothing changed"
+          else
+            STATE=$([ "${{ steps.run.outputs.code }}" = "0" ] && echo done || echo progress)
+            git commit -m "translate: ${{ steps.pick.outputs.slug }} ($STATE)"
+            for i in 1 2 3; do
+              git push && break
+              echo "push rejected, refreshing base and retrying"
+              git fetch origin "$GITHUB_REF_NAME"
+              git reset --soft "origin/$GITHUB_REF_NAME"
+              git add -A booktrans_work output || true
+              git commit -m "translate: ${{ steps.pick.outputs.slug }} ($STATE)" || break
+            done
+          fi
+
+      - name: Upload result
+        if: steps.pick.outputs.skip != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ steps.pick.outputs.slug }}-hindi
+          path: |
+            output/
+            booktrans_work/*/bible.json
+            booktrans_work/*/bible_chapters.json
+            booktrans_work/*/report.json
+          retention-days: 90
+          if-no-files-found: warn
+
+      - name: Summary
+        if: steps.pick.outputs.skip != 'true'
+        run: |
+          REP=$(ls booktrans_work/*/report.json 2>/dev/null | head -1)
+          {
+            echo "## ${{ steps.pick.outputs.slug }}"
+            if [ "${{ steps.run.outputs.code }}" = "0" ]; then
+              echo "**Complete.** The translated EPUB is in \`output/\`."
+            else
+              echo "**In progress.** Daily quota spent; the next scheduled run resumes."
+            fi
+            if [ -n "$REP" ]; then
+              echo ""
+              echo '```json'
+              cat "$REP"
+              echo '```'
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
