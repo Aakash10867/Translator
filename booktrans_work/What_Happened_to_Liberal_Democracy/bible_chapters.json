@@ -1,0 +1,1947 @@
+[
+  {
+    "new_characters": [
+      {
+        "name": "Thomas Piketty",
+        "name_Hindi": "थॉमस पिकेटी",
+        "name_role": "Blurb author and economist",
+        "notes": "Endorsement quoted in the book praising the work."
+      },
+      {
+        "name": "Jared Diamond",
+        "name_Hindi": "जेरेड डायमंड",
+        "name_role": "Blurb author and author",
+        "notes": "Endorsement quoted in the book."
+      },
+      {
+        "name": "Daron Acemoglu",
+        "name_Hindi": "डारोन एसेमोसुग्लू",
+        "name_role": "Author",
+        "notes": "Author of the book being praised."
+      },
+      {
+        "name": "Esther Duflo",
+        "name_Hindi": "एस्थर डुफ्लो",
+        "name_role": "Blurb author and Nobel laureate",
+        "notes": "Endorsement quoted in the book."
+      },
+      {
+        "name": "Steven Levitt",
+        "name_Hindi": "स्टीवन लेविट",
+        "name_role": "Blurb author and economist",
+        "notes": "Endorsement quoted in the book."
+      },
+      {
+        "name": "Steven Pinker",
+        "name_Hindi": "स्टीवन पिंकर",
+        "name_role": "Blurb author and professor",
+        "notes": "Endorsement quoted in the book."
+      },
+      {
+        "name": "Ece Temelkuran",
+        "name_Hindi": "एसे टेमेलकुरान",
+        "name_role": "Blurb author and author",
+        "notes": "Endorsement quoted in the book."
+      },
+      {
+        "name": "Michael Sandel",
+        "name_Hindi": "माइकल सैंडेल",
+        "name_role": "Blurb author and author",
+        "notes": "Endorsement quoted in the book."
+      },
+      {
+        "name": "Philip Pettit",
+        "name_Hindi": "फिलिप पेटिट",
+        "name_role": "Blurb author and professor",
+        "notes": "Endorsement quoted in the book."
+      },
+      {
+        "name": "Ro Khanna",
+        "name_Hindi": "रो खन्ना",
+        "name_role": "Blurb author and author",
+        "notes": "Endorsement quoted in the book."
+      },
+      {
+        "name": "Joel Mokyr",
+        "name_Hindi": "जोएल मोकिर",
+        "name_role": "Blurb author and economist",
+        "notes": "Endorsement quoted in the book."
+      },
+      {
+        "name": "Simon Johnson",
+        "name_Hindi": "साइमन जॉनसन",
+        "name_role": "Blurb author and economist",
+        "notes": "Endorsement quoted in the book."
+      },
+      {
+        "name": "Angus Deaton",
+        "name_Hindi": "एंगस डीटन",
+        "name_role": "Blurb author and Nobel laureate",
+        "notes": "Endorsement quoted in the book."
+      }
+    ],
+    "formality_changes": [],
+    "new_glossary": [
+      {
+        "term": "Liberal Democracy",
+        "hindi": "उदार लोकतंत्र",
+        "why": "Central political theme of the book."
+      },
+      {
+        "term": "working-class liberalism",
+        "hindi": "मजदूर-वर्ग उदारवाद",
+        "why": "Key conceptual term coined and discussed in the book."
+      }
+    ],
+    "new_names": [],
+    "doc": 1
+  },
+  {
+    "new_characters": [
+      {
+        "name": "James A. Robinson",
+        "name_Hindi": "जेम्स ए. रॉबिन्सन",
+        "role": "co-author of other books by Daron Acemoglu",
+        "notes": "Mentioned as co-author."
+      }
+    ],
+    "formality_changes": [],
+    "new_glossary": [
+      {
+        "term": "Power and Progress",
+        "hindi": "पावर एंड प्रोग्रेस",
+        "why": "Title of a book by Daron Acemoglu and Simon Johnson."
+      },
+      {
+        "term": "Why Nations Fail",
+        "hindi": "व्हाई नेशंस फेल",
+        "why": "Title of a book by Daron Acemoglu and James A. Robinson."
+      },
+      {
+        "term": "The Narrow Corridor",
+        "hindi": "द नैरो कॉरिडोर",
+        "why": "Title of a book by Daron Acemoglu and James A. Robinson."
+      }
+    ],
+    "new_names": [],
+    "doc": 2
+  },
+  {
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": [
+      {
+        "term": "Remaking a Politics of Shared Prosperity",
+        "hindi": "साझा समृद्धि की राजनीति का पुनर्निर्माण",
+        "why": "Subtitle of the book appearing on the title page, establishing the core political objective."
+      }
+    ],
+    "new_names": [],
+    "doc": 3
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Irma",
+        "name_Hindi": "इरमा",
+        "name_role": "Dedication recipient",
+        "notes": "Mentioned in dedication."
+      },
+      {
+        "name": "Kevork",
+        "name_Hindi": "केवोर्क",
+        "role": "Dedication recipient",
+        "notes": "Mentioned in dedication."
+      }
+    ],
+    "formality_changes": [],
+    "new_glossary": [],
+    "new_names": [],
+    "doc": 5
+  },
+  {
+    "new_characters": [],
+    "formality_changes": [],
+    "new_glossary": [
+      {
+        "term": "Liberal Democracy in Crisis",
+        "hindi": "संकट में उदारवादी लोकतंत्र",
+        "why": "Chapter 1 title introducing the core theme of institutional crisis."
+      },
+      {
+        "term": "Why Liberalism?",
+        "hindi": "उदारवाद क्यों?",
+        "why": "Chapter 2 title examining the foundations of liberalism."
+      },
+      {
+        "term": "Liberalism Without Social Contract",
+        "hindi": "सामाजिक अनुबंध के बिना उदारवाद",
+        "why": "Chapter 3 title highlighting the breakdown of the social contract."
+      },
+      {
+        "term": "Liberal Success",
+        "hindi": "उदारवादी सफलता",
+        "why": "Chapter 4 title discussing historical achievements of liberalism."
+      },
+      {
+        "term": "Liberalism’s Dilemmas",
+        "hindi": "उदारवाद की दुविधाएँ",
+        "why": "Chapter 5 title addressing internal contradictions and challenges."
+      },
+      {
+        "term": "Pathway to Crisis",
+        "hindi": "संकट की ओर ले जाने वाला रास्ता",
+        "why": "Chapter 6 title tracing the trajectory toward current instability."
+      },
+      {
+        "term": "Postindustrial Politics",
+        "hindi": "उत्तर-औद्योगिक राजनीति",
+        "why": "Chapter 7 title analyzing political shifts in the post-industrial era."
+      },
+      {
+        "term": "Social Engineering",
+        "hindi": "सामाजिक अभियांत्रिकी",
+        "why": "Chapter 8 title examining top-down societal interventions."
+      },
+      {
+        "term": "Liberalism in the Age of Algorithms",
+        "hindi": "एल्गोरिदम के युग में उदारवाद",
+        "why": "Chapter 9 title exploring technology and digital governance."
+      },
+      {
+        "term": "Working-Class Liberalism",
+        "hindi": "मजदूर-वर्ग उदारवाद",
+        "why": "Chapter 10 title presenting the book's concluding solution."
+      }
+    ],
+    "new_names": [],
+    "doc": 6
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Frederick Douglass",
+        "name_Hindi": "फ्रेडरिक डगलस",
+        "role": "Historical author and abolitionist quoted in the chapter heading",
+        "notes": "Spoken of via quote; formal register."
+      }
+    ],
+    "formality_changes": [],
+    "new_glossary": [],
+    "new_names": [],
+    "doc": 7
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Francis Fukuyama",
+        "name_Hindi": "फ्रांसिस फुकुयामा",
+        "role": "राजनीति वैज्ञानिक और दार्शनिक जिनका संदर्भ 'इतिहास के अंत' की घोषणा के लिए दिया गया है।",
+        "notes": "गंभीर, अकादमिक शैली।"
+      },
+      {
+        "name": "Imre Nagy",
+        "name_Hindi": "इम्रे नागी",
+        "role": "हंगरी के पूर्व प्रधानमंत्री जिन्हें 1958 में सोवियत संघ द्वारा फांसी दी गई थी।",
+        "notes": "ऐतिहासिक और सम्मानित व्यक्ति।"
+      },
+      {
+        "name": "Viktor Mihály Orbán",
+        "name_Hindi": "विक्टर मिहाली ओरबान",
+        "role": "हंगरी के नेता जिन्होंने 1989 में स्वतंत्रता की मांग की थी और बाद में 'अनुदार राज्य' की स्थापना की।",
+        "notes": "प्रारंभ में क्रांतिकारी युवा नेता, बाद में सत्तावादी शासक के रूप में वर्णित।"
+      }
+    ],
+    "formality_changes": [],
+    "new_glossary": [
+      {
+        "term": "illiberal state",
+        "hindi": "अनुदार राज्य",
+        "why": "विक्टर ओरबान द्वारा स्थापित शासन प्रणाली का वर्णन करने के लिए एक प्रमुख राजनीतिक अवधारणा के रूप में।"
+      },
+      {
+        "term": "work-based society",
+        "hindi": "काम-आधारित समाज",
+        "why": "ओरबान द्वारा प्रचारित समाज का रूप।"
+      }
+    ],
+    "new_names": [],
+    "doc": 8
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Wilhelm von Humboldt",
+        "name_Hindi": "विल्हेम वॉन हम्बोल्ट",
+        "role": "Philosopher and linguist quoted at the beginning of the chapter",
+        "notes": "Historical figure quoted on human development."
+      },
+      {
+        "name": "Friedrich Hayek",
+        "name_Hindi": "फ्रेडरिक हायेक",
+        "role": "Economist and philosopher quoted in the chapter",
+        "notes": "Classical liberal theorist quoted on individual freedom and human ignorance."
+      },
+      {
+        "name": "Lady Mary Wortley Montagu",
+        "name_Hindi": "लेडी मैरी वर्टले मोंटेगू",
+        "role": "English aristocrat and writer",
+        "notes": "Observed smallpox inoculation in Constantinople and brought the practice to attention."
+      },
+      {
+        "name": "Edward Wortley Montagu",
+        "name_Hindi": "एडवर्ड वर्टले मोंटेगू",
+        "role": "British ambassador to the Ottoman Empire and husband of Lady Montagu",
+        "notes": "Mentioned in the context of his diplomatic post in Constantinople."
+      },
+      {
+        "name": "Edward Jenner",
+        "name_Hindi": "एडवर्ड जेनर",
+        "role": "English physician and scientist",
+        "notes": "Pioneer of the smallpox vaccine using cowpox."
+      },
+      {
+        "name": "Thomas Hobbes",
+        "name_Hindi": "थॉमस हॉब्स",
+        "role": "English philosopher",
+        "notes": "Articulated the notion of the social contract."
+      }
+    ],
+    "formality_changes": [],
+    "new_glossary": [
+      {
+        "term": "habits of the heart",
+        "hindi": "दिल की आदतें",
+        "why": "Tocqueville's imagery used to describe community bonds and shared values."
+      },
+      {
+        "term": "pillars of liberalism",
+        "hindi": "उदारवाद के स्तंभ",
+        "why": "Core structural implications of liberalism introduced as a central framework in the chapter."
+      }
+    ],
+    "new_names": [],
+    "doc": 9
+  },
+  {
+    "new_characters": [
+      {
+        "name": "William Beveridge",
+        "name_Hindi": "विलियम बेवरिज",
+        "role": "British economist and social reformer",
+        "notes": "Quoted on the definition of liberty."
+      },
+      {
+        "name": "David Hume",
+        "name_Hindi": "डेविड ह्यूम",
+        "role": "Scottish philosopher",
+        "notes": "Quoted on the condition of the learned world."
+      },
+      {
+        "name": "Mary Laffoy",
+        "name_Hindi": "मैरी लाफॉय",
+        "role": "Irish judge",
+        "notes": "Chaired the Irish Citizens' Assembly."
+      },
+      {
+        "name": "Louise Caldwell",
+        "name_Hindi": "लुईस कॉटवेल",
+        "role": "Entrepreneur and participant in the Citizens' Assembly",
+        "notes": "Recalled the friendly and serious mood of the assembly."
+      },
+      {
+        "name": "John Locke",
+        "name_Hindi": "जॉन लॉक",
+        "role": "Philosopher",
+        "notes": "Associated with classical liberalism."
+      },
+      {
+        "name": "Montesquieu",
+        "name_Hindi": "मॉन्तेस्क्यू",
+        "role": "Philosopher",
+        "notes": "Associated with classical liberalism."
+      },
+      {
+        "name": "Adam Smith",
+        "name_Hindi": "एडम स्मिथ",
+        "role": "Philosopher and economist",
+        "notes": "Associated with classical liberalism."
+      },
+      {
+        "name": "Jeremy Bentham",
+        "name_Hindi": "जेरेमी बेन्थम",
+        "role": "Philosopher",
+        "notes": "Associated with classical liberalism."
+      },
+      {
+        "name": "John Stuart Mill",
+        "name_Hindi": "जॉन स्टुअर्ट मिल",
+        "role": "Philosopher",
+        "notes": "Associated with classical liberalism."
+      },
+      {
+        "name": "Isaiah Berlin",
+        "name_Hindi": "इसाया बर्लिन",
+        "role": "Philosopher",
+        "notes": "Coiner of negative and positive liberty."
+      },
+      {
+        "name": "Jean-Jacques Rousseau",
+        "name_Hindi": "जीं-जैक्स रूसो",
+        "role": "Philosopher",
+        "notes": "Associated with positive liberty and the general will."
+      },
+      {
+        "name": "Cicero",
+        "name_Hindi": "सिसरो",
+        "role": "Roman statesman and philosopher",
+        "notes": "Wrote on community, mutual regard, and the common good."
+      }
+    ],
+    "formality_changes": [],
+    "new_glossary": [
+      {
+        "term": "negative liberty",
+        "hindi": "नकारात्मक स्वतंत्रता",
+        "why": "Isaiah Berlin's concept referring to what the state cannot or should not do to individuals."
+      },
+      {
+        "term": "positive liberty",
+        "hindi": "सकारात्मक स्वतंत्रता",
+        "why": "Berlin's concept referring to freedom enabled by the state and society actively working to build individual capabilities."
+      },
+      {
+        "term": "general will",
+        "hindi": "सामान्य इच्छा",
+        "why": "Rousseau's concept representing the collective will of society."
+      },
+      {
+        "term": "soft communitarianism",
+        "hindi": "सौम्य समुदायवाद",
+        "why": "The author's proposed approach balancing community norms with individual freedoms."
+      }
+    ],
+    "new_names": [],
+    "doc": 10
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Lowndes Adams",
+        "name_Hindi": "लॉउंड्स एडम्स",
+        "role": "An African American writer of a letter from Alabama in 1917 describing southern conditions.",
+        "notes": "Appears only in a quoted historical letter."
+      },
+      {
+        "name": "Mershell Cunningham Graham",
+        "name_Hindi": "मर्शल कनिंघम ग्राहम",
+        "role": "An African American born in rural Alabama who moved to Detroit to work at Ford Motor Company, achieving a middle-class life.",
+        "notes": "The central historical case study of the chapter, tracing his life and family."
+      },
+      {
+        "name": "Pearl Cleage",
+        "name_Hindi": "पर्ल क्लीग",
+        "role": "Mershell's granddaughter, a world-famous playwright and teacher.",
+        "notes": "Mentioned as an example of intergenerational mobility enabled by liberalism."
+      },
+      {
+        "name": "Lyndon B. Johnson",
+        "name_Hindi": "लिंडन बी. जॉनसन",
+        "role": "U.S. President quoted at the chapter's outset regarding the Great Society.",
+        "notes": "Quoted epigraph author."
+      },
+      {
+        "name": "Algernon Sidney",
+        "name_Hindi": "अल्जेर्नन सिडनी",
+        "role": "English politician and political theorist quoted on liberty.",
+        "notes": "Quoted epigraph author and referenced theorist."
+      },
+      {
+        "name": "Jan Hus",
+        "name_Hindi": "वॉन हुस",
+        "role": "Theologian and early reformer.",
+        "notes": "Briefly mentioned as an anticipator of ideas."
+      }
+    ],
+    "formality_changes": [],
+    "new_glossary": [],
+    "new_names": [],
+    "doc": 11
+  },
+  {
+    "new_characters": [
+      {
+        "name": "T. S. Eliot",
+        "name_Hindi": "टी. एस. एलियट",
+        "name_hindi": "टी. एस. एलियट",
+        "role": "कवि और निबंधकार",
+        "notes": "उद्धरण के माध्यम से प्रस्तुत।"
+      },
+      {
+        "name": "Herbert Marcuse",
+        "name_Hindi": "हर्बर्ट मार्क्युस",
+        "name_hindi": "हर्बर्ट मार्क्युस",
+        "role": "दार्शनिक",
+        "notes": "सहिष्णुता पर अपने विचार के साथ उद्धृत।"
+      },
+      {
+        "name": "Voltaire",
+        "name_Hindi": "वॉल्तेयर",
+        "name_hindi": "वॉल्तेयर",
+        "role": "प्रसिद्ध फ्रांसीसी दार्शनिक और लेखक",
+        "notes": "सहिष्णुता और सेंसरशिप के विरोधी के रूप में चर्चा।"
+      },
+      {
+        "name": "François-Marie Arouet",
+        "name_Hindi": "फ्रांस्वा-मारी आरूए",
+        "name_hindi": "फ्रांस्वा-मारी आरूए",
+        "role": "वॉल्तेयर का मूल नाम",
+        "notes": "शुरुआती वर्षों में इस्तेमाल किया गया नाम।"
+      },
+      {
+        "name": "Horace",
+        "name_Hindi": "होरेस",
+        "name_hindi": "होरेस",
+        "role": "रोमन कवि",
+        "notes": "वॉल्तेयर के पत्र में उल्लिखित।"
+      },
+      {
+        "name": "Juvenal",
+        "name_Hindi": "जुवेनाल",
+        "name_hindi": "जुवेनाल",
+        "role": "रोमन कवि",
+        "notes": "वॉल्तेयर के पत्र में उल्लिखित।"
+      },
+      {
+        "name": "Milton",
+        "name_Hindi": "मिल्टन",
+        "name_hindi": "मिल्टन",
+        "role": "अंग्रेजी कवि",
+        "notes": "वॉल्तेयर के पत्र में उल्लिखित।"
+      },
+      {
+        "name": "Dryden",
+        "name_Hindi": "ड्रायडन",
+        "name_hindi": "ड्रायडन",
+        "role": "अंग्रेजी लेखक",
+        "notes": "वॉल्तेयर के पत्र में उल्लिखित।"
+      },
+      {
+        "name": "Pope",
+        "name_Hindi": "पोप",
+        "name_hindi": "पोप",
+        "role": "अंग्रेजी कवि",
+        "notes": "वॉल्तेयर के पत्र में उल्लिखित।"
+      },
+      {
+        "name": "Jean Calas",
+        "name_Hindi": "जीन कालास",
+        "name_hindi": "जीन कालास",
+        "role": "प्रोटेस्टेंट ह्यूजेनोट व्यापारी",
+        "notes": "अन्याय का शिकार बने व्यक्ति।"
+      },
+      {
+        "name": "Victor Hugo",
+        "name_Hindi": "विक्टर ह्यूगो",
+        "name_hindi": "विक्टर ह्यूगो",
+        "role": "नाटककार और कवि",
+        "notes": "वॉल्तेयर पर अपने भाषण के लिए उल्लिखित।"
+      },
+      {
+        "name": "François-Jean Lefebvre de La Barre",
+        "name_Hindi": "फ्रांस्वा-जीन लेफेव्र दे ला बार",
+        "name_hindi": "फ्रांस्वा-जीन लेफेव्र दे ला बार",
+        "role": "अन्याय का शिकार व्यक्ति",
+        "notes": "1766 में धार्मिक जुलूस में अनादर के आरोप में प्रताड़ित।"
+      },
+      {
+        "name": "Marine Le Pen",
+        "name_Hindi": "मारिन ले पेन",
+        "name_hindi": "मारिन ले पेन",
+        "role": "फ्रांसीसी दूर-दक्षिणपंथी नेता",
+        "notes": "वैश्वीकरण की आलोचना के संदर्भ में उल्लिखित।"
+      },
+      {
+        "name": "Mussolini",
+        "name_Hindi": "मुसोलिनी",
+        "name_hindi": "मुसोलिनी",
+        "role": "फासीवादी नेता",
+        "notes": "ऐतिहासिक संदर्भ में उल्लिखित।"
+      },
+      {
+        "name": "Hitler",
+        "name_Hindi": "हिटलर",
+        "name_hindi": "हिटलर",
+        "role": "तानाशाह",
+        "notes": "ऐतिहासिक संदर्भ में उल्लिखित।"
+      },
+      {
+        "name": "Stalin",
+        "name_Hindi": "स्टालिन",
+        "name_hindi": "स्टालिन",
+        "role": "सोवियत नेता",
+        "notes": "ऐतिहासिक संदर्भ में उल्लिखित।"
+      }
+    ],
+    "formality_changes": [],
+    "new_glossary": [
+      {
+        "term": "inclusion",
+        "hindi": "समावेशन",
+        "why": "उदारवाद के तीन संकटों (तीन I) में से एक मुख्य अवधारणा के रूप में।"
+      },
+      {
+        "term": "ignorance",
+        "hindi": "अज्ञान",
+        "why": "उदारवाद के तीन संकटों (तीन I) में से एक मुख्य अवधारणा के रूप में।"
+      },
+      {
+        "term": "intolerance",
+        "hindi": "असहिष्णुता",
+        "why": "उदारवाद के तीन संकटों (तीन I) में से एक मुख्य अवधारणा के रूप में।"
+      }
+    ],
+    "new_names": [],
+    "doc": 12
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Daniel Bell",
+        "name_Hindi": "डैनियल बेल",
+        "role": "Sociologist",
+        "notes": "Introduced via his concept of post-industrial society."
+      },
+      {
+        "name": "David Ricardo",
+        "name_Hindi": "डेविड रिकार्डो",
+        "role": "Economist",
+        "notes": "Quoted on machinery and labor."
+      },
+      {
+        "name": "Carl Icahn",
+        "name_Hindi": "कार्ल इकान",
+        "role": "Corporate raider",
+        "notes": "Made an offer to acquire Anchor Hocking."
+      },
+      {
+        "name": "Gore Vidal",
+        "name_Hindi": "गोर विडाल",
+        "role": "Writer and commentator",
+        "notes": "Quoted on the US property party."
+      },
+      {
+        "name": "Anthony Downs",
+        "name_Hindi": "एंथनी डाउन्स",
+        "role": "Economist",
+        "notes": "Formulated a famous political theory on electoral competition."
+      }
+    ],
+    "formality_changes": [],
+    "new_glossary": [
+      {
+        "term": "post-industrial society",
+        "hindi": "उत्तर-औद्योगिक समाज",
+        "why": "Central theme of Chapter 6 describing axial changes in social structure."
+      },
+      {
+        "term": "industrial compact",
+        "hindi": "औद्योगिक समझौता",
+        "why": "Describes the post-war arrangement between labor, management, and democracy."
+      },
+      {
+        "term": "corporate raider",
+        "hindi": "कॉर्पोरेट रेडर",
+        "why": "Term used for aggressive investors like Carl Icahn acquiring companies."
+      },
+      {
+        "term": "stagflation",
+        "hindi": "स्टैगफ्लेशन",
+        "why": "Economic term for the toxic combination of stagnation and inflation in the 1970s."
+      }
+    ],
+    "new_names": [],
+    "doc": 13
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Lionel Trilling",
+        "name_Hindi": "लायनेल ट्रिलिंग",
+        "role": "Literary critic and intellectual quoted in the epigraph",
+        "notes": "Quoted in scholarly and cultural context."
+      },
+      {
+        "name": "Oliver Wendell Holmes Sr.",
+        "name_Hindi": "ऑलिवर वेंडेल होम्स सीनियर",
+        "role": "Physician, poet, writer, and coiner of the term 'Boston Brahmin'",
+        "notes": "Historical intellectual figure."
+      },
+      {
+        "name": "Oliver Wendell Holmes Jr.",
+        "name_Hindi": "ऑलिवर वेंडेल होम्स जूनियर",
+        "role": "Future Supreme Court Justice and son of Oliver Wendell Holmes Sr.",
+        "notes": "Historical legal figure."
+      },
+      {
+        "name": "Ralph Nader",
+        "name_Hindi": "रल्फ नेडर",
+        "role": "Consumer rights activist and critic of corporate power",
+        "notes": "Mentioned as a prominent advocate leading 'raiders' against automotive and pharmaceutical companies."
+      }
+    ],
+    "formality_changes": [],
+    "new_glossary": [
+      {
+        "term": "Postindustrial politics",
+        "hindi": "उत्तर-औद्योगिक राजनीति",
+        "why": "Recurring theme analyzing the political landscape after the decline of mass manufacturing economies."
+      },
+      {
+        "term": "Educational segregation",
+        "hindi": "शैक्षणिक अलगाव",
+        "why": "Key concept describing how people with and without college degrees live in increasingly separate social and geographic spheres."
+      },
+      {
+        "term": "Boston Brahmin",
+        "hindi": "बॉस्टन ब्राह्मण",
+        "why": "Historical sociological term used to describe members of Boston's traditional upper-class elite."
+      }
+    ],
+    "new_names": [],
+    "doc": 14
+  },
+  {
+    "new_characters": [
+      {
+        "name": "James C. Scott",
+        "name_Hindi": "जेम्स सी. स्कॉट",
+        "name_Hindi_script": "जेम्स सी. स्कॉट",
+        "role": "विचारक एवं लेखक",
+        "notes": "उद्धरण के संदर्भ में प्रस्तुत"
+      },
+      {
+        "name": "Charles Sanders Peirce",
+        "name_Hindi": "चार्ल्स सैंडर्स पीयर्स",
+        "name_Hindi_script": "चार्ल्स सैंडर्स पीयर्स",
+        "role": "दार्शनिक",
+        "notes": "उद्धरण के संदर्भ में प्रस्तुत"
+      },
+      {
+        "name": "Mao Tse-tung",
+        "name_Hindi": "माओ त्से-तुंग",
+        "name_Hindi_script": "माओ त्से-तुंग",
+        "role": "चीनी कम्युनिस्ट नेता",
+        "notes": "सांस्कृतिक क्रांति के वास्तुकार के रूप में चर्चित"
+      }
+    ],
+    "formality_changes": [],
+    "new_glossary": [
+      {
+        "term": "social engineering",
+        "hindi": "सामाजिक इंजीनियरिंग",
+        "why": "अध्याय का मुख्य विषय और आवर्ती अवधारणा"
+      },
+      {
+        "term": "Cultural Revolution",
+        "hindi": "सांस्कृतिक क्रांति",
+        "why": "माओ के नेतृत्व में चली ऐतिहासिक घटना"
+      },
+      {
+        "term": "thought policing",
+        "hindi": "विचारों की पुलिसिंग",
+        "why": "सोच और व्यवहार पर वैचारिक नियंत्रण की प्रक्रिया"
+      },
+      {
+        "term": "deplatforming",
+        "hindi": "प्लेटफॉर्म से हटाना",
+        "why": "विरोधी विचारों को सार्वजनिक मंचों या परिसरों से बाहर करना"
+      },
+      {
+        "term": "microaggressions",
+        "hindi": "सूक्ष्म-आक्रामकता",
+        "why": "विशिष्ट समूहों को पहुँचाए जाने वाले दैनिक छोटे व अपमानजनक आघात"
+      }
+    ],
+    "new_names": [],
+    "doc": 15
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Justine Sacco",
+        "name_Hindi": "जस्टिन सैको",
+        "role": "Director of corporate communications for IAC whose tweet went viral.",
+        "notes": "Sppeaks briefly through quoted text."
+      },
+      {
+        "name": "Jon Ronson",
+        "name_Hindi": "जॉन रॉनसन",
+        "role": "Journalist who wrote about Justine Sacco in The New York Times.",
+        "notes": "Appears as a referenced author."
+      },
+      {
+        "name": "Stanley Milgram",
+        "name_Hindi": "स्टेनली मिलग्राम",
+        "role": "Social psychologist known for the Milgram experiment on obedience to authority.",
+        "notes": "Referenced in the discussion of social psychology experiments."
+      },
+      {
+        "name": "Adolf Eichmann",
+        "name_Hindi": "एडॉल्फ आइचमैन",
+        "role": "Nazi officer and bureaucrat in charge of the logistics of the Holocaust.",
+        "notes": "Mentioned historically."
+      },
+      {
+        "name": "Jaron Lanier",
+        "name_Hindi": "जैरोन लैनियर",
+        "role": "Computer scientist and writer quoted at the beginning of the chapter.",
+        "notes": "Quoted."
+      },
+      {
+        "name": "J. C. R. Licklider",
+        "name_Hindi": "जे. सी. आर. लिकलाइटर",
+        "role": "Computer scientist quoted at the beginning of the chapter.",
+        "notes": "Quoted."
+      },
+      {
+        "name": "Kranzberg",
+        "name_Hindi": "क्रैंजबर्ग",
+        "role": "Historian of technology known for Kranzberg's laws of technology.",
+        "notes": "Referenced via his first law."
+      }
+    ],
+    "formality_changes": [],
+    "new_glossary": [
+      {
+        "term": "algorithms",
+        "hindi": "एल्गोरिदम",
+        "why": "Central recurring computational motif of the chapter."
+      },
+      {
+        "term": "social media",
+        "hindi": "सोशल मीडिया",
+        "why": "Recurring medium discussed throughout the chapter."
+      },
+      {
+        "term": "viral",
+        "hindi": "वायरल",
+        "why": "Recurring term describing the rapid spread of online content."
+      },
+      {
+        "term": "tending topic",
+        "hindi": "ट्रेंडिंग टॉपिक",
+        "why": "Recurring social media feature."
+      }
+    ],
+    "new_names": [],
+    "doc": 16
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Jeanette Winterson",
+        "name_Hindi": "ीबिनेट विंटरसन",
+        "role": "लेखिका और उपन्यासकार जिनका उद्धरण अध्याय की शुरुआत में प्रयुक्त हुआ है",
+        "notes": "केवल संदर्भ के रूप में प्रस्तुत।"
+      },
+      {
+        "name": "Donald J. Trump",
+        "name_Hindi": "डोनाल्ड जे. ट्रंप",
+        "role": "अमेरिकी राष्ट्रपति पद के उम्मीदवार और व्यवसायी",
+        "notes": "अध्याय में उनके राजनीतिक भाषणों और आप्रवासियों के खिलाफ बयानबाजी का जिक्र है।"
+      },
+      {
+        "name": "Patrick Buchanan",
+        "name_Hindi": "पैट्रिक बुकानन",
+        "role": "राजनीतिक टिप्पणीकार और उद्यमी",
+        "notes": "जिन्होंने पहले आप्रवासन विरोधी भावनाओं का राजनीतिक लाभ उठाया।"
+      },
+      {
+        "name": "Michael Walzer",
+        "name_Hindi": "माइकल वाल्ज़र",
+        "role": "दार्शनिक",
+        "notes": "जिनके विचार प्रयोग का उपयोग समुदाय और पहचान के संबंध को समझाने के लिए किया गया है।"
+      }
+    ],
+    "formality_changes": [],
+    "new_glossary": [
+      {
+        "term": "Working-Class Liberalism",
+        "hindi": "मजदूर वर्ग का उदारवाद",
+        "why": "अध्याय का मुख्य विषय और अवधारणा है जो उदारवाद और श्रमिक वर्ग के हितों को जोड़ती है।"
+      }
+    ],
+    "new_names": [],
+    "doc": 17
+  },
+  {
+    "new_characters": [
+      {
+        "name": "David Autor",
+        "name_Hindi": "डेविड ऑटोर",
+        "role": "सहयोगी और शोधकर्ता",
+        "notes": "आर्थिक असमानता और तकनीकी बदलाव पर अनुसंधान करने वाले विद्वान।"
+      },
+      {
+        "name": "Pascual Restrepo",
+        "name_Hindi": "पास्कुअल रेस्त्रेपो",
+        "role": "सहयोगी और शोधकर्ता",
+        "notes": "तकनीकी बदलाव और रोजगार पर शोध करने वाले विद्वान।"
+      },
+      {
+        "name": "Alex Wolitzky",
+        "name_Hindi": "अलेक्स वोलित्स्की",
+        "role": "सहयोगी और शोधकर्ता",
+        "notes": "संस्थानों और संघर्ष पर अध्ययन करने वाले विद्वान।"
+      },
+      {
+        "name": "Brian Alexander",
+        "name_Hindi": "ब्रायन एलेक्जेंडर",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाले विद्वान।"
+      },
+      {
+        "name": "Tim Besley",
+        "name_Hindi": "टिम बेस्ले",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाले विद्वान।"
+      },
+      {
+        "name": "Peter Boettke",
+        "name_Hindi": "पीटर बोएटके",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाले विद्वान।"
+      },
+      {
+        "name": "Oren Cass",
+        "name_Hindi": "ओरेन कैस",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाले विद्वान।"
+      },
+      {
+        "name": "Daniel Chandler",
+        "name_Hindi": "डैनियल चैंडलर",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाले विद्वान।"
+      },
+      {
+        "name": "Josh Cohen",
+        "name_Hindi": "जोश कोहेन",
+        "role": "समीक्षक और सम्मेलन आयोजक",
+        "notes": "पुस्तक के शुरुआती मसौदों के समीक्षक और एमआईटी में सम्मेलन के आयोजक।"
+      },
+      {
+        "name": "Alisa DiCaprio",
+        "name_Hindi": "अलिसा डिकैप्रियो",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाली विद्वान।"
+      },
+      {
+        "name": "Alice Evans",
+        "name_Hindi": "एलिस इवांस",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाली विद्वान।"
+      },
+      {
+        "name": "Amory Gethin",
+        "name_Hindi": "अमोरी गेथिन",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाले विद्वान।"
+      },
+      {
+        "name": "Jonathan Gould",
+        "name_Hindi": "जोनाथन गोल्ड",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाले विद्वान।"
+      },
+      {
+        "name": "Vlada Gurvich",
+        "name_Hindi": "वलादा गुरविच",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाली विद्वान।"
+      },
+      {
+        "name": "Jen Harris",
+        "name_Hindi": "जेन हैरिस",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाली विद्वान।"
+      },
+      {
+        "name": "Joe Henrich",
+        "name_Hindi": "जो हेनरिच",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाले विद्वान।"
+      },
+      {
+        "name": "Yasheng Huang",
+        "name_Hindi": "याशेंग हुआंग",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाले विद्वान।"
+      },
+      {
+        "name": "Ruixue Jia",
+        "name_Hindi": "रुइक्सुए जिया",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाली विद्वान।"
+      },
+      {
+        "name": "Ahmet Kuru",
+        "name_Hindi": "अहमद कुरु",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाले विद्वान।"
+      },
+      {
+        "name": "Hélène Landemore",
+        "name_Hindi": "हेलीन लांडेमोर",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाली विद्वान।"
+      },
+      {
+        "name": "Steve Levitsky",
+        "name_Hindi": "स्टीव लेविट्स्की",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाले विद्वान।"
+      },
+      {
+        "name": "Lydia Liu",
+        "name_Hindi": "लीडिया लियू",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाली विद्वान।"
+      },
+      {
+        "name": "Nicolas Longuet‑Marx",
+        "name_Hindi": "निकोलस लोंगुए-मार्क्स",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाले विद्वान।"
+      },
+      {
+        "name": "Frank Lovett",
+        "name_Hindi": "फ्रैंक लवेट",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाले विद्वान।"
+      },
+      {
+        "name": "Daniel Markovits",
+        "name_Hindi": "डैनियल मार्कोविट्स",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाले विद्वान।"
+      },
+      {
+        "name": "John Mearsheimer",
+        "name_Hindi": "जॉन मियर्सहाइमर",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाले विद्वान।"
+      },
+      {
+        "name": "Suresh Naidu",
+        "name_Hindi": "सुरेश नायडू",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाले विद्वान।"
+      },
+      {
+        "name": "Shakked Noy",
+        "name_Hindi": "शक्केड नॉय",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाले विद्वान।"
+      },
+      {
+        "name": "Agustina Paglayan",
+        "name_Hindi": "अगस्तिना पागलायन",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाली विद्वान।"
+      },
+      {
+        "name": "Chantal Prezold",
+        "name_Hindi": "चांटल प्रेजोल्ड",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाली विद्वान।"
+      },
+      {
+        "name": "Rebecca Saxe",
+        "name_Hindi": "रेबेका सैक्स",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाली विद्वान।"
+      },
+      {
+        "name": "Tim Scanlon",
+        "name_Hindi": "टिम स्कैनलोन",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाले विद्वान।"
+      },
+      {
+        "name": "Andrew Scott",
+        "name_Hindi": "एंड्रयू स्कॉट",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाले विद्वान।"
+      },
+      {
+        "name": "Sue Stokes",
+        "name_Hindi": "सू स्टोक्स",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाली विद्वान।"
+      },
+      {
+        "name": "Marco Tabellini",
+        "name_Hindi": "मार्को ताबेलिनी",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाले विद्वान।"
+      },
+      {
+        "name": "John Tasioulas",
+        "name_Hindi": "जॉन तसिउलास",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाले विद्वान।"
+      },
+      {
+        "name": "Brandon Terry",
+        "name_Hindi": "ब्रैंडन टेरी",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाले विद्वान।"
+      },
+      {
+        "name": "Cihat Tokgöz",
+        "name_Hindi": "जिहात तोकगोज",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाले विद्वान।"
+      },
+      {
+        "name": "Nadia Urbinati",
+        "name_Hindi": "नादिया उरबिनाती",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाली विद्वान।"
+      },
+      {
+        "name": "Paul Weithman",
+        "name_Hindi": "पॉल वेइथमैन",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाले विद्वान।"
+      },
+      {
+        "name": "Glen Weyl",
+        "name_Hindi": "ग्लेन वेइल",
+        "role": "समीक्षक और टिप्पणीकार",
+        "notes": "पुस्तक के शुरुआती मसौदों पर प्रतिक्रिया देने वाले विद्वान।"
+      },
+      {
+        "name": "Gavin Alcott",
+        "name_Hindi": "गेविन अलकॉड",
+        "role": "शोध सहायक",
+        "notes": "पुस्तक के लिए शोध में सहायता करने वाले व्यक्ति।"
+      },
+      {
+        "name": "Julie Gnany",
+        "name_Hindi": "जूली गनानी",
+        "role": "शोध सहायक",
+        "notes": "पुस्तक के लिए शोध में सहायता करने वाली व्यक्ति।"
+      },
+      {
+        "name": "Joanne Liang",
+        "name_Hindi": "जोआन लियांग",
+        "role": "शोध सहायक",
+        "notes": "पुस्तक के लिए शोध में सहायता करने वाली व्यक्ति।"
+      },
+      {
+        "name": "Juliana Quattrocchi",
+        "name_Hindi": "जुलिया क्वात्रोची",
+        "role": "शोध सहायक",
+        "notes": "पुस्तक के लिए शोध में सहायता करने वाली व्यक्ति।"
+      },
+      {
+        "name": "Julia Regier",
+        "name_Hindi": "जुलिया रेजिएर",
+        "role": "शोध सहायक",
+        "notes": "पुस्तक के लिए शोध में सहायता करने वाली व्यक्ति।"
+      },
+      {
+        "name": "Christian Vogt",
+        "name_Hindi": "क्रिश्चियन वोग्ट",
+        "role": "शोध सहायक",
+        "notes": "पुस्तक के लिए शोध में सहायता करने वाले व्यक्ति।"
+      },
+      {
+        "name": "Can Ye˛sildere",
+        "name_Hindi": "कैन येसिलदेरे",
+        "role": "शोध सहायक",
+        "notes": "पुस्तक के लिए शोध में सहायता करने वाले व्यक्ति।"
+      },
+      {
+        "name": "Andrew Lou",
+        "name_Hindi": "एंड्रयू लू",
+        "role": "प्रमुख शोध सहायक",
+        "notes": "पुस्तक के लिए विशेष रूप से शोध सहायता प्रदान करने वाले व्यक्ति।"
+      },
+      {
+        "name": "Hilary McClellen",
+        "name_Hindi": "हिलारी मैक्लेलेन",
+        "role": "तथ्य-जांचकर्ता",
+        "notes": "अध्याय 1 के लिए तथ्य-जांच प्रदान करने वाली व्यक्ति।"
+      },
+      {
+        "name": "Max Brockman",
+        "name_Hindi": "मैक्स ब्रॉकमैन",
+        "role": "साहित्यिक एजेंट",
+        "notes": "लेखक के एजेंट।"
+      },
+      {
+        "name": "Nick Amphlett",
+        "name_Hindi": "निक एम्फलेट",
+        "role": "संपादक",
+        "notes": "पुस्तक के संपादक।"
+      }
+    ],
+    "formality_changes": [],
+    "new_glossary": [],
+    "new_names": [],
+    "doc": 18
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Karl Popper",
+        "name_Hindi": "कार्ल पॉपर",
+        "name_role": "Philosopher of science cited for ideas on the impossibility of absolute certainty.",
+        "notes": "Mentioned in bibliographic notes."
+      },
+      {
+        "name": "Alasdair MacIntyre",
+        "name_Hindi": "अलास्डेयर मैकिन्टायर",
+        "name_role": "Communitarian philosopher.",
+        "notes": "Mentioned in bibliographic notes."
+      },
+      {
+        "name": "Charles Taylor",
+        "name_Hindi": "चार्ल्स टेलर",
+        "name_role": "Philosopher who emphasizes the importance of community.",
+        "notes": "Mentioned in bibliographic notes."
+      },
+      {
+        "name": "Quentin Skinner",
+        "name_Hindi": "क्वेंटिन स्किनर",
+        "name_role": "Republican philosopher.",
+        "notes": "Mentioned in bibliographic notes."
+      },
+      {
+        "name": "Elizabeth Anderson",
+        "name_Hindi": "एलिज़ाबेथ एंडरसन",
+        "name_role": "Philosopher working on nondomination and self-government.",
+        "notes": "Mentioned in bibliographic notes."
+      },
+      {
+        "name": "Robert Boyd",
+        "name_Hindi": "रॉबर्ट बॉイド",
+        "name_role": "Evolutionary anthropologist.",
+        "notes": "Mentioned in bibliographic notes."
+      },
+      {
+        "name": "Peter Richerson",
+        "name_Hindi": "पीटर रिचर्डसन",
+        "name_role": "Evolutionary anthropologist.",
+        "notes": "Mentioned in bibliographic notes."
+      },
+      {
+        "name": "Michael Tomasello",
+        "name_Hindi": "माइकल टोमासेलो",
+        "name_role": "Social psychologist and researcher on social learning.",
+        "notes": "Mentioned in bibliographic notes."
+      },
+      {
+        "name": "Frank Levy",
+        "name_Hindi": "फ्रैंक लेवी",
+        "name_role": "Economist and researcher on technological change and labor.",
+        "notes": "Mentioned in bibliographic notes."
+      },
+      {
+        "name": "Richard J. Murnane",
+        "name_Hindi": "रिचर्ड जे. मurnane",
+        "name_role": "Economist.",
+        "notes": "Mentioned in bibliographic notes."
+      },
+      {
+        "name": "Lawrence F. Katz",
+        "name_Hindi": "लॉरेंस एफ. काट्ज़",
+        "name_role": "Economist.",
+        "notes": "Mentioned in bibliographic notes."
+      },
+      {
+        "name": "Alan B. Krueger",
+        "name_Hindi": "एलन बी. क्रूगर",
+        "name_role": "Economist.",
+        "notes": "Mentioned in bibliographic notes."
+      },
+      {
+        "name": "David Dorn",
+        "name_Hindi": "डेविड डोर्न",
+        "name_role": "Economist.",
+        "notes": "Mentioned in bibliographic notes."
+      },
+      {
+        "name": "Gordon H. Hanson",
+        "name_Hindi": "गॉर्डन एच. हेंसन",
+        "name_role": "Economist.",
+        "notes": "Mentioned in bibliographic notes."
+      },
+      {
+        "name": "William Baumol",
+        "name_Hindi": "विलियम बॉमोल",
+        "name_role": "Economist known for 'Baumol's cost disease'.",
+        "notes": "Mentioned in bibliographic notes."
+      },
+      {
+        "name": "Johannes Duernecker",
+        "name_Hindi": "जोहानेस डुएर्नेकर",
+        "name_role": "Economist.",
+        "notes": "Mentioned in bibliographic notes."
+      },
+      {
+        "name": "Berthold Herrendorf",
+        "name_Hindi": "बेरथॉल्ड हेरेन्डॉर्फ",
+        "name_role": "Economist.",
+        "notes": "Mentioned in bibliographic notes."
+      },
+      {
+        "name": "Guido Valentini",
+        "name_Hindi": "गुइडो वैलेन्तिनी",
+        "name_role": "Economist.",
+        "notes": "Mentioned in bibliographic notes."
+      },
+      {
+        "name": "Gregor Hubmer",
+        "name_Hindi": "ग्रेगोर हबमेर",
+        "name_role": "Economist.",
+        "notes": "Mentioned in bibliographic notes."
+      },
+      {
+        "name": "Clara Martínez-Toledano",
+        "name_Hindi": "क्लारा मार्टिनेज़-तोलेदानो",
+        "name_role": "Economist.",
+        "notes": "Mentioned in bibliographic notes."
+      },
+      {
+        "name": "Stéphane Kuziemko",
+        "name_Hindi": "स्तेफान कुज़िएम्को",
+        "name_role": "Economist.",
+        "notes": "Mentioned in bibliographic notes."
+      },
+      {
+        "name": "Robert Putnam",
+        "name_Hindi": "रॉबर्ट पुटनम",
+        "name_role": "Political scientist.",
+        "notes": "Mentioned in bibliographic notes."
+      },
+      {
+        "name": "Shaylyn Garrett",
+        "name_Hindi": "शेलिन गैरेट्स",
+        "name_role": "Researcher on community decline.",
+        "notes": "Mentioned in bibliographic notes."
+      },
+      {
+        "name": "Bill Bishop",
+        "name_Hindi": "बिल बिशप",
+        "name_role": "Author on geographic sorting.",
+        "notes": "Mentioned in bibliographic notes."
+      },
+      {
+        "name": "George Orwell",
+        "name_Hindi": "जॉर्ज ओरवेल",
+        "name_role": "Author.",
+        "notes": "Mentioned in bibliographic notes."
+      },
+      {
+        "name": "Lucas Rosenblatt",
+        "name_Hindi": "लुकास रोसेनब्लाट",
+        "name_role": "Scholar of liberalism.",
+        "notes": "Mentioned in bibliographic notes."
+      },
+      {
+        "name": "John Rawls",
+        "name_Hindi": "जॉन रॉल्स",
+        "name_role": "Philosopher.",
+        "notes": "Mentioned in bibliographic notes."
+      },
+      {
+        "name": "Joshua Cohen",
+        "name_Hindi": "जोशुआ कोहेन",
+        "name_role": "Philosopher.",
+        "notes": "Mentioned in bibliographic notes."
+      },
+      {
+        "name": "Samuel Bowles",
+        "name_Hindi": "सैम्युएल बाउल्स",
+        "name_role": "Economist and educator.",
+        "notes": "Mentioned in bibliographic notes."
+      },
+      {
+        "name": "Herbert Gintis",
+        "name_Hindi": "हर्बर्ट गेंटिस",
+        "name_role": "Economist.",
+        "notes": "Mentioned in bibliographic notes."
+      },
+      {
+        "name": "Reza Aslan",
+        "name_Hindi": "रेज़ा अस्लान",
+        "name_role": "Scholar of religion.",
+        "notes": "Mentioned in bibliographic notes."
+      },
+      {
+        "name": "Li",
+        "name_Hindi": "ली",
+        "name_role": "Researcher.",
+        "notes": "Mentioned in bibliographic notes."
+      },
+      {
+        "name": "Cousineau",
+        "name_Hindi": "कुसीनो",
+        "name_role": "Researcher.",
+        "notes": "Mentioned in bibliographic notes."
+      },
+      {
+        "name": "Yu Kong",
+        "name_Hindi": "यू कोंग",
+        "name_role": "Economist and researcher.",
+        "notes": "Mentioned in bibliographic notes."
+      }
+    ],
+    "formality_changes": [],
+    "new_glossary": [],
+    "new_names": [],
+    "doc": 19
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Joseph Rayner Stephens",
+        "name_Hindi": "जोसेफ रेनर स्टीफंस",
+        "name_English": "Joseph Rayner Stephens",
+        "role": "Historical figure / speech contributor",
+        "notes": "Mentioned in historical context regarding universal suffrage."
+      },
+      {
+        "name": "John Betjeman",
+        "name_Hindi": "जॉन बेटजेमन",
+        "name_English": "John Betjeman",
+        "role": "Poet / essay quoted",
+        "notes": "Quoted in discussions of national identity and public life."
+      },
+      {
+        "name": "Humphrey Szreter",
+        "name_Hindi": "हम्फ्रे श्रेटर",
+        "name_English": "Humphrey Szreter",
+        "role": "Demographer / historian",
+        "notes": "Co-author of historical life expectancy estimates."
+      },
+      {
+        "name": "Simon Mooney",
+        "name_Hindi": "साइमन मूनी",
+        "name_English": "Simon Mooney",
+        "role": "Historian",
+        "notes": "Co-author of studies on urban health and mortality."
+      },
+      {
+        "name": "Gabriel Fujiwara",
+        "name_Hindi": "गैब्रिएल फुजीवारा",
+        "name_English": "Gabriel Fujiwara",
+        "role": "Economist / researcher",
+        "notes": "Studied the effects of voting machines in Brazil."
+      },
+      {
+        "name": "Alexis de Tocqueville",
+        "name_Hindi": "अलेक्सीस दे तोकविले",
+        "name_English": "Alexis de Tocqueville",
+        "role": "Political philosopher / historian",
+        "notes": "Quoted on American institutions."
+      },
+      {
+        "name": "Winston Churchill",
+        "name_Hindi": "विंस्टन चर्चिल",
+        "name_English": "Winston Churchill",
+        "role": "Historical statesman",
+        "notes": "Paraphrased regarding the forms of government."
+      },
+      {
+        "name": "Patrick Bayer",
+        "name_Hindi": "पैट्रिक बायर",
+        "name_English": "Patrick Bayer",
+        "role": "Economist",
+        "notes": "Researched wage gaps between Black and white workers."
+      },
+      {
+        "name": "Kerwin Charles",
+        "name_Hindi": "केरविन चार्ल्स",
+        "name_English": "Kerwin Charles",
+        "role": "Economist",
+        "notes": "Co-author on racial earnings gap trends."
+      },
+      {
+        "name": "Claudia Goldin",
+        "name_Hindi": "क्लाउडिया गोल्डिन",
+        "name_English": "Claudia Goldin",
+        "role": "Economic historian",
+        "notes": "Examined American wage structures post-WWII."
+      },
+      {
+        "name": "Robert Margo",
+        "name_Hindi": "रॉबर्ट मार्गो",
+        "name_English": "Robert Margo",
+        "role": "Economic historian",
+        "notes": "Co-author on postwar wage structure changes."
+      },
+      {
+        "name": "Karl Ove Moene",
+        "name_Hindi": "कार्ल ओवे मोएने",
+        "name_English": "Karl Ove Moene",
+        "role": "Economist",
+        "notes": "Analyzed Nordic social democracy and wage compression."
+      },
+      {
+        "name": "Walter Scheidel",
+        "name_Hindi": "वाल्टर शाइडेल",
+        "name_English": "Walter Scheidel",
+        "role": "Historian",
+        "notes": "Synthesized evidence on post-WWII inequality reduction."
+      },
+      {
+        "name": "Barry Eichengreen",
+        "name_Hindi": "बैरी आइचेनग्रीन",
+        "name_English": "Barry Eichengreen",
+        "role": "Economic historian",
+        "notes": "Provided background on Europe's postwar recovery."
+      },
+      {
+        "name": "Tim Bowden",
+        "name_Hindi": "टिम बाउडन",
+        "name_English": "Tim Bowden",
+        "role": "Historian / researcher",
+        "notes": "Estimated household appliance ownership in the U.K. and U.S."
+      },
+      {
+        "name": "Avner Offer",
+        "name_Hindi": "अवनेर ऑफर",
+        "name_English": "Avner Offer",
+        "role": "Economic historian",
+        "notes": "Co-author on living standards and household appliances."
+      },
+      {
+        "name": "Michael Amery",
+        "name_Hindi": "माइकल एमरी",
+        "name_English": "Michael Amery",
+        "role": "Housing researcher",
+        "notes": "Documented U.K. housing amenities."
+      },
+      {
+        "name": "Michael Young",
+        "name_Hindi": "माइकल यंग",
+        "name_English": "Michael Young",
+        "role": "Urban historian",
+        "notes": "Documented the history of urban mass transit."
+      }
+    ],
+    "doc": 20
+  },
+  {
+    "new_characters": [
+      {
+        "name": "R. Aaberge",
+        "name_Hindi": "आर. आबेर्गे",
+        "role": "Researcher and author cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "A. B. Atkinson",
+        "name_Hindi": "ए. बी. एटकिंसन",
+        "role": "Economist and editor cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Dorian Abbot",
+        "name_Hindi": "डोरियन एबॉट",
+        "role": "Author cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Ivan Marinovic",
+        "name_Hindi": "इवान मारिनोविच",
+        "role": "Author cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Philippe Aghion",
+        "name_Hindi": "फिलिप एगिओन",
+        "role": "Economist and editor cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Leonardo Bursztyn",
+        "name_Hindi": "लिओनार्डो बुर्स्ज़टिन",
+        "role": "Researcher cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "David Hemous",
+        "name_Hindi": "डेविड हेमौस",
+        "role": "Researcher cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Nicolas Ajzenman",
+        "name_Hindi": "निकोलास अज्‍ज़ेनमैन",
+        "role": "Researcher cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Cevat Giray Aksoy",
+        "name_Hindi": "सेवात गिराय अकसोय",
+        "role": "Researcher cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Martin Fiszbein",
+        "name_Hindi": "मार्टिन फ़िज़्बीन",
+        "role": "Researcher cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Carlos Molina",
+        "name_Hindi": "कार्लोस मोलिना",
+        "role": "Researcher cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Guillermo Cruces",
+        "name_Hindi": "गुइलेर्मो क्रूसेस",
+        "role": "Researcher cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Gastón García Zavaleta",
+        "name_Hindi": "गास्तों गार्सिया ज़ावालेता",
+        "role": "Researcher cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Ceren Baysan",
+        "name_Hindi": "सेरेन बेयसान",
+        "role": "Researcher cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Gamze Zeki",
+        "name_Hindi": "गामजे ज़ेकी",
+        "role": "Researcher cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "David Card",
+        "name_Hindi": "डेविड कार्ड",
+        "role": "Editor cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Orley Ashenfelter",
+        "name_Hindi": "ओर्ले एशेनफेल्टर",
+        "role": "Editor cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Brendan Price",
+        "name_Hindi": "ब्रेंडन प्राइस",
+        "role": "Researcher cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Jonathon Hazell",
+        "name_Hindi": "जोनाथन हेज़ेल",
+        "role": "Researcher cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Davide Cantoni",
+        "name_Hindi": "दाविदे कांतोनी",
+        "role": "Researcher cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Gino Gancia",
+        "name_Hindi": "गीनो गांसिया",
+        "role": "Researcher cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Fabrizio Zilibotti",
+        "name_Hindi": "फाब्रिजियो ज़िलिबॉट्टी",
+        "role": "Researcher cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Michael Jordan",
+        "name_Hindi": "माइकल जॉर्डन",
+        "role": "Researcher cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Fredric Kong",
+        "name_Hindi": "फ्रेडरिक कोंग",
+        "role": "Researcher cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Hans Koster",
+        "name_Hindi": "हंस कोस्टर",
+        "role": "Researcher cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Ceren Ozgen",
+        "name_Hindi": "सेरेन ओज़गेन",
+        "role": "Researcher cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Daniel le Maire",
+        "name_Hindi": "डैनियल ले मेयरे",
+        "role": "Researcher cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Alex X. He",
+        "name_Hindi": "अलेक्स एक्स. हे",
+        "role": "Researcher cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Jong-Sung You",
+        "name_Hindi": "जोंग-सुंग यू",
+        "role": "Author cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Monika Bauhr",
+        "name_Hindi": "मोनिका बाउहर",
+        "role": "Editor cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Andreas Bågenholm",
+        "name_Hindi": "एंड्रिएस बोगेनहोल्म",
+        "role": "Editor cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Marcia Grimes",
+        "name_Hindi": "मार्शिया ग्रिम्स",
+        "role": "Editor cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Bo Rothstein",
+        "name_Hindi": "बो रोथस्टीन",
+        "role": "Editor cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Jay Young",
+        "name_Hindi": "जय यंग",
+        "role": "Author cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Fernanda Zamudio-Suarez",
+        "name_Hindi": "फर्नांडा ज़ामुडियो-सुआरेज़",
+        "role": "Author cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Eliana Zeballos",
+        "name_Hindi": "एलिआना ज़ेबालोस",
+        "role": "Researcher cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Wilson Sinclair",
+        "name_Hindi": "विल्सन सिंक्लेयर",
+        "role": "Researcher cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Mary Ann Zehr",
+        "name_Hindi": "मैरी एन ज़ेर",
+        "role": "Author cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Robert F. Zeidel",
+        "name_Hindi": "रॉबर्ट एफ. ज़ैडेल",
+        "role": "Author cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Kristin Zeier",
+        "name_Hindi": "क्रिस्टिन ज़ीयर",
+        "role": "Author cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Grün Gianna-Carina",
+        "name_Hindi": "ग्रून गियान्ना-कारिना",
+        "role": "Author cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Julian E. Zelizer",
+        "name_Hindi": "जूलियन ई. ज़ेलिज़र",
+        "role": "Author cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Elena Yi-Jia Zeng",
+        "name_Hindi": "एलेना यी-जिया ज़ेंग",
+        "role": "Author cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Michael Zuckert",
+        "name_Hindi": "माइकल ज़ुकरट",
+        "role": "Author cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "Jack P. Greene",
+        "name_Hindi": "जैक पी. ग्रीन",
+        "role": "Editor cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      },
+      {
+        "name": "J. R. Pole",
+        "name_Hindi": "जे. आर. पोल",
+        "role": "Editor cited in the bibliography",
+        "notes": "Mentioned in academic citations."
+      }
+    ],
+    "formality_changes": [],
+    "new_glossary": [],
+    "new_names": [],
+    "doc": 21
+  },
+  {
+    "new_characters": [
+      {
+        "name": "Magnus Alexander",
+        "name_Hindi": "मैग्नस अलेक्जेंडर",
+        "role": "Mentioned historical or cited figure",
+        "notes": "उल्लेखित नाम।"
+      },
+      {
+        "name": "Tim Berners-Lee",
+        "name_Hindi": "टिम बर्नर्स-ली",
+        "role": "Computer scientist and inventor of the World Wide Web",
+        "notes": "प्रौद्योगिकी और इंटरनेट इतिहास से जुड़े संदर्भ।"
+      },
+      {
+        "name": "Robert Cailliau",
+        "name_Hindi": "रॉबर्ट कैलियाउ",
+        "role": "Computer scientist",
+        "notes": "वेब के विकास से जुड़े वैज्ञानिक।"
+      },
+      {
+        "name": "Tom Cotton",
+        "name_Hindi": "टॉम कॉटन",
+        "role": "Politician",
+        "notes": "राजनीतिक संदर्भों में उल्लिखित।"
+      },
+      {
+        "name": "Mandell Creighton",
+        "name_Hindi": "मंडेल क्रेटन",
+        "role": "Historian and clergyman",
+        "notes": "इतिहास और धर्म से जुड़े संदर्भ।"
+      },
+      {
+        "name": "Denis Diderot",
+        "name_Hindi": "डेनिस डिडरोट",
+        "role": "Enlightenment philosopher and encyclopedist",
+        "notes": "प्रबोधन युग के दार्शनिक।"
+      },
+      {
+        "name": "Benjami",
+        "name_Hindi": "बेंजामिन",
+        "role": "Historical or political figure (Disraeli fragment)",
+        "notes": "इंडेक्स प्रविष्टि में खंडित नाम।"
+      },
+      {
+        "name": "Alfred Russel Wallace",
+        "name_Hindi": "अल्फ्रेड रसेल वैलेस",
+        "role": "Naturalist and biologist",
+        "notes": "विकासवाद से जुड़े वैज्ञानिक।"
+      },
+      {
+        "name": "Léon Walras",
+        "name_Hindi": "लéon वाल्रास",
+        "role": "Economist",
+        "notes": "अर्थशास्त्रीय संदर्भ।"
+      },
+      {
+        "name": "Drew Weissman",
+        "name_Hindi": "ड्रू वेसमैन",
+        "role": "Scientist and Nobel laureate",
+        "notes": "चिकित्सा अनुसंधान से जुड़े वैज्ञानिक।"
+      },
+      {
+        "name": "John Winthrop",
+        "name_Hindi": "जॉन विन्थ्रोप",
+        "role": "Puritan leader and colonial governor",
+        "notes": "औपनिवेशिक इतिहास से जुड़े व्यक्ति।"
+      },
+      {
+        "name": "Robert Paul Wolff",
+        "name_Hindi": "रॉबर्ट पॉल वोल्फ",
+        "role": "Political philosopher",
+        "notes": "राजनीतिक दर्शन के संदर्भ।"
+      },
+      {
+        "name": "Mary Wollstonecraft",
+        "name_Hindi": "मैरी वोल्स्टनक्राफ्ट",
+        "role": "Writer and philosopher of women's rights",
+        "notes": "नारीवादी दर्शन और इतिहास की लेखिका।"
+      },
+      {
+        "name": "John Wycliffe",
+        "name_Hindi": "जॉन वाइक्लिफ",
+        "role": "Theologian and reformer",
+        "notes": "धार्मिक सुधारक।"
+      },
+      {
+        "name": "Janet Yellen",
+        "name_Hindi": "बिनेट येलेन",
+        "role": "Economist and government official",
+        "notes": "आर्थिक नीतियों से जुड़ी हस्ती।"
+      },
+      {
+        "name": "Howard Zinn",
+        "name_Hindi": "हावर्ड ज़िन",
+        "role": "Historian and activist",
+        "notes": "इतिहासकार।"
+      },
+      {
+        "name": "Grigory Zinovyev",
+        "name_Hindi": "ग्रिगोरी ज़िनोव्येव",
+        "role": "Soviet politician",
+        "notes": "सोवियत राजनीति से जुड़े नेता।"
+      },
+      {
+        "name": "Mark Zuckerberg",
+        "name_Hindi": "मार्क जुकरबर्ग",
+        "role": "Tech executive and entrepreneur",
+        "notes": "तकनीकी उद्यमी।"
+      }
+    ],
+    "formality_changes": [],
+    "new_glossary": [
+      {
+        "term": "index",
+        "hindi": "अनुक्रमणिका",
+        "why": "पुस्तक के अंत में दी गई अनुक्रमणिका (Index) शीर्षक के लिए मानक तकनीकी शब्द।"
+      }
+    ],
+    "new_names": [],
+    "doc": 22
+  }
+]
